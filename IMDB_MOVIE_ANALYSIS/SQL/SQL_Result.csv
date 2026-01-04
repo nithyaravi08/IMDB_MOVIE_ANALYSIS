@@ -1,0 +1,2490 @@
+---Movies by imdb rating catogary---
+rating_category	movie_count
+High	846
+Medium	1958
+Low	264
+
+---Total gross revenue by genre---
+genre	total_gross
+Action|Adventure|Fantasy|Sci-Fi	3559347775
+Action|Adventure|Fantasy	3303695046
+Action|Adventure|Thriller	3844783431
+Action|Thriller	1676401072
+Action|Adventure|Sci-Fi	8465023014
+Action|Adventure|Romance	439983408
+Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance	418157481
+Adventure|Family|Fantasy|Mystery	1395281585
+Action|Adventure	1177162558
+Action|Adventure|Western	209933027
+Action|Adventure|Family|Fantasy	450530270
+Action|Adventure|Comedy|Family|Fantasy|Sci-Fi	353538635
+Adventure|Fantasy	944733942
+Action|Adventure|Drama|History	105292148
+Adventure|Family|Fantasy	1788712268
+Action|Adventure|Drama|Romance	518644247
+Drama|Romance	3331795777
+Action|Adventure|Sci-Fi|Thriller	3488138508
+Action|Adventure|Fantasy|Romance	867839911
+Action|Adventure|Fantasy|Sci-Fi|Thriller	1135904469
+Adventure|Animation|Comedy|Family|Fantasy	3992613148
+Adventure|Animation|Comedy|Family|Sport	518528546
+Action|Crime|Thriller	2865116249
+Action|Adventure|Horror|Sci-Fi|Thriller	225670237
+Adventure|Animation|Family|Sci-Fi	261927443
+Action|Comedy|Crime|Thriller	1180143323
+Animation|Drama|Family|Fantasy	137850096
+Action|Crime|Drama|Thriller	1987256075
+Adventure|Animation|Comedy|Family	2728857583
+Action|Adventure|Animation|Comedy|Family|Sci-Fi	300632391
+Adventure|Drama|Family|Mystery	73820094
+Action|Comedy|Sci-Fi|Western	113745408
+Action|Adventure|Fantasy|Horror|Thriller	102176165
+Action|Adventure|Comedy|Sci-Fi	613788731
+Comedy|Family|Fantasy	1435058262
+Adventure|Animation|Comedy|Drama|Family|Fantasy	356454367
+Adventure|Drama|Family|Fantasy	547631153
+Action|Adventure|Drama|Fantasy	1272696867
+Action|Adventure|Family|Fantasy|Romance	241407328
+Action|Adventure|Drama|Sci-Fi	251666875
+Action|Adventure|Romance|Sci-Fi	133729689
+Action|Adventure|Family|Mystery|Sci-Fi	93417865
+Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi	245647016
+Adventure|Animation|Comedy|Family|Sci-Fi	693811713
+Adventure|Animation|Family|Fantasy	573425612
+Action|Sci-Fi	1424628464
+Adventure|Drama|Sci-Fi	506035561
+Action|Adventure|Drama|Horror|Sci-Fi	25529689
+Drama|Fantasy|Romance	686174202
+Adventure|Sci-Fi	281666058
+Action|Adventure|Drama|Thriller	1167128975
+Action|Drama|History|Romance|War	198668833
+Action|Adventure|Biography|Drama|History|Romance|War	34293771
+Action|Drama	254218634
+Drama|Horror|Sci-Fi	302022769
+Adventure|Comedy|Family|Fantasy	1035940035
+Animation|Comedy|Family|Fantasy	704370521
+Action|Adventure|Animation|Comedy|Family	926235107
+Adventure|Animation|Comedy|Family|Fantasy|Musical	440136350
+Mystery|Thriller	863042300
+Adventure|Animation|Comedy|Drama|Family	220847494
+Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi	173552848
+Comedy|Fantasy|Horror	423614640
+Drama|Fantasy|Horror|Thriller	141140768
+Action|Drama|Thriller	801229997
+Adventure	133228348
+Action|Comedy|Fantasy|Sci-Fi	147755249
+Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi	190418803
+Action|Adventure|Animation|Fantasy	82161969
+Comedy|Crime	1836558168
+Action|Drama|History|War	393681842
+Action|Adventure|Drama	191697263
+Action|Adventure|Animation|Comedy|Family|Fantasy	779317814
+Action|Drama|Mystery|Sci-Fi	107503316
+Action|Adventure|Comedy|Thriller	212921414
+Action|Adventure|Animation|Fantasy|Romance|Sci-Fi	32131830
+Action|Adventure|Drama|History|War	217482608
+Adventure|Drama|Fantasy|Romance	889445670
+Animation|Comedy|Family|Musical	63992328
+Adventure|Drama|Thriller|Western	183635922
+Adventure|Animation|Comedy|Family|Western	123207194
+Action|Mystery|Thriller	814025293
+Adventure|Sci-Fi|Thriller	1547356010
+Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi	198294495
+Action|Crime|Mystery|Thriller	360627427
+Action|Adventure|Family|Mystery	77564037
+Adventure|Drama|Romance|War	74161304
+Adventure|Animation|Family|Thriller	137748063
+Action|Fantasy	61911405
+Action|Animation|Comedy|Family|Sci-Fi	503915161
+Action|Comedy|Fantasy	78721880
+Fantasy	38025554
+Adventure|Animation|Comedy|Family|Musical	301841575
+Action|Adventure|Crime|Mystery|Thriller	395850158
+Action|Adventure|History	33779749
+Action	408184818
+Adventure|Drama|Fantasy	193187368
+Action|Fantasy|Thriller	229767333
+Action|Adventure|Comedy|Crime	425405407
+Adventure|Mystery|Sci-Fi	416312478
+Action|Drama|Sci-Fi|Thriller	371320321
+Action|Crime|Sci-Fi|Thriller	336576438
+Action|Family|Sport	43929341
+Comedy|Drama|Romance	4255799680
+Action|Comedy|Romance	220445888
+Action|Adventure|Mystery|Sci-Fi	170044068
+Action|Drama|War	490364235
+Adventure|Drama|Sci-Fi|Thriller	740014000
+Action|Adventure|Comedy|Family|Fantasy	250863268
+Crime|Thriller	1030631660
+Action|Comedy|Crime|Romance|Thriller	240755392
+Biography|Drama	1187265314
+Action|Comedy|Crime|Sci-Fi|Thriller	98780042
+Action|Drama|Fantasy|War	316961707
+Animation|Comedy|Family|Music|Western	50026353
+Action|Adventure|Mystery|Sci-Fi|Thriller	179431141
+Action|Drama|Sci-Fi|Sport	85463309
+Action|Crime|Romance|Thriller	153382774
+Action|Adventure|Comedy	674202647
+Biography|Drama|Sport	1051442716
+Action|Mystery|Sci-Fi|Thriller	479832892
+Animation|Family|Fantasy|Musical|Romance	104374107
+Action|Adventure|Romance|Sci-Fi|Thriller	123771461
+Comedy|Romance	6134611003
+Action|Drama|Romance	492520402
+Biography|Crime|Drama|History|Romance	97030725
+Biography|Crime|Drama	640606691
+Action|Comedy|Thriller	156358547
+Action|Comedy|Crime	2002348761
+Action|Drama|Mystery|Thriller	101228120
+Drama|Western	291920667
+Animation|Drama|Family|Musical|Romance	100117603
+Action|Adventure|Comedy|Family|Mystery	173005002
+Action|Romance|Thriller	67631157
+Action|Fantasy|Horror|Mystery	66862068
+Adventure|Drama|Thriller	405744595
+Biography|Comedy|Crime|Drama	119079365
+Action|Sci-Fi|War	54700065
+Drama|Sci-Fi	175493269
+Action|Adventure|Animation|Family|Fantasy	55673333
+Action|Crime|Fantasy|Romance|Thriller	40198710
+Adventure|Comedy|Sci-Fi	686148695
+Action|Crime|Sport|Thriller	28772222
+Action|Adventure|Biography|Drama|History|Thriller	24985612
+Action|Comedy|Sci-Fi	216772524
+Action|Drama|Thriller|War	296330372
+Drama|Mystery|Thriller	1110249679
+Action|Adventure|Fantasy|Thriller	441866740
+Crime|Drama	689588396
+Drama|History|Romance|War	27205164
+Animation|Comedy|Family|Sport	58867694
+Comedy|Sci-Fi|Thriller	59475623
+Drama|History|War	389032830
+Comedy	5751828946
+Adventure|Animation|Comedy|Family|Romance	152382076
+Drama|Family|Fantasy|Romance	220306233
+Drama|Fantasy|Thriller	55882842
+Drama|Mystery|Romance|Sci-Fi|Thriller	23014504
+Drama|History|War|Western	22406362
+Action|Adventure|Animation|Family	261437578
+Adventure|Comedy|Family|Mystery|Sci-Fi	250147615
+Drama|Fantasy|Horror|Mystery|Thriller	198008527
+Animation|Comedy|Family|Sci-Fi	492919910
+Adventure|Comedy|Drama|Fantasy|Romance	58229120
+Action|Adventure|Comedy|Crime|Thriller	125305545
+Crime|Drama|Thriller	2628758124
+Adventure|Animation|Family|Fantasy|Musical|War	120618403
+Action|Comedy	502943512
+Crime|Drama|Mystery|Thriller	1744227637
+Adventure|Drama|History	271030690
+Action|Adventure|Animation|Family|Fantasy|Sci-Fi	84037039
+Adventure|Animation|Comedy|Family|Fantasy|Music	218988744
+Drama|History|Thriller|War	133946147
+Action|Animation|Comedy|Sci-Fi	78747585
+Comedy|Family|Fantasy|Horror|Mystery	75817994
+Drama|Mystery|Sci-Fi|Thriller	577612650
+Action|Horror|Sci-Fi|Thriller	661283886
+Crime|Mystery|Thriller	485071098
+Action|Adventure|Comedy|Crime|Mystery|Thriller	64685359
+Comedy|Drama|Sci-Fi	183824136
+Action|Family|Fantasy|Musical	190562
+Drama|History|Sport	161383897
+Adventure|Drama|Romance	314012012
+Animation|Comedy|Family|Music|Romance	197992827
+Animation|Comedy|Family|Fantasy|Musical|Romance	127706877
+Adventure|Comedy|Family	438996301
+Action|Crime|Drama|Mystery|Thriller	742828780
+Action|Adventure|Comedy|Fantasy	78417283
+Comedy|Drama|Music|Musical	25529689
+Adventure|Comedy|Drama|Family|Fantasy	99163003
+Action|Comedy|Fantasy|Romance	31494270
+Comedy|Romance|Sci-Fi	308559295
+Adventure|Comedy|Mystery	211444617
+Comedy|Drama|Fantasy|Romance	425549743
+Action|Comedy|Family|Fantasy	136950867
+Action|Adventure|Fantasy|Horror|Sci-Fi	75754670
+Crime|Drama|History|Mystery|Thriller	33048353
+Comedy|Drama	2886506223
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi	145771527
+Action|Drama|Romance|Sci-Fi|Thriller	140459099
+Comedy|Crime|Sport	158115031
+Comedy|Family|Fantasy|Romance	372999201
+Adventure|Drama|History|Romance|War	95632614
+Comedy|Family|Sci-Fi	139115881
+Fantasy|Horror|Mystery|Thriller	170885103
+Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport	90443603
+Adventure|Comedy|Crime|Family|Mystery	82226474
+Drama|Sci-Fi|Thriller	455712302
+Action|Crime|Mystery|Romance|Thriller	90176801
+Action|Adventure|Comedy|Romance	74329966
+Adventure|Animation|Family|Western	73215310
+Comedy|Family|Romance	474544883
+Action|Adventure|Family|Sci-Fi|Thriller	69102910
+Animation|Family|Fantasy|Music	60507228
+Action|Adventure|Family|Fantasy|Thriller	50628009
+Comedy|Fantasy	688605285
+Action|Adventure|Comedy|Fantasy|Thriller	37899638
+Drama|Horror|Mystery|Sci-Fi	25529689
+Action|Sci-Fi|Thriller	691411948
+Drama|History|Thriller	426549333
+Adventure|Animation|Family	135225456
+Drama|Musical|Romance	310842489
+Documentary|Drama	19406406
+Action|Adventure|Drama|History|Romance	32124818
+Animation|Family	25529689
+Adventure|Animation|Drama|Family|Musical	422783777
+Animation|Comedy|Family|Fantasy|Sci-Fi	119793567
+Adventure|Animation|Drama|Family|Fantasy	1339152
+Sci-Fi|Thriller	208500401
+Animation|Comedy|Family	683273341
+Action|Crime|Fantasy|Thriller	178758668
+Comedy|Drama|Family|Music|Musical|Romance	209379492
+Horror|Mystery|Thriller	1002870058
+Action|Adventure|Comedy|Family|Sci-Fi	585299988
+Comedy|Family	1498228609
+Biography|Comedy|Drama|History	136871707
+Drama|Music|Musical	103338338
+Comedy|Crime|Music	63863024
+Action|Comedy|Romance|Thriller	47000485
+Animation|Comedy|Family|Fantasy|Mystery	73661010
+Comedy|Crime|Drama|Romance	95370186
+Action|Adventure|Romance|Thriller	37600435
+Drama|History|Romance	39251128
+Action|Drama|Fantasy|Romance	83503161
+Action|Adventure|Animation|Family|Sci-Fi	22751979
+Action|Drama|Sci-Fi	14567883
+Drama|Horror|Sci-Fi|Thriller	145090732
+Animation|Comedy|Fantasy	5409517
+Action|Animation|Comedy|Family	107225164
+Action|Adventure|Comedy|Romance|Thriller	70224196
+Action|Comedy|Sport	193503695
+Biography|Drama|History|War	310632845
+Adventure|Animation|Comedy	208662059
+Action|Drama|Sport	140135894
+Adventure|Drama|Family	122399868
+Drama|Mystery|Romance|Thriller	239129766
+Adventure|Animation|Comedy|Family|Fantasy|Romance	486621655
+Adventure|Drama|War	120523073
+Action|Adventure|Crime|Thriller	455981774
+Fantasy|Mystery|Romance|Sci-Fi|Thriller	100614858
+Drama|Fantasy|Mystery|Thriller	57318423
+Animation|Comedy|Family|Fantasy|Music	436939727
+Drama|Horror|Romance|Thriller	70612000
+Drama|War	384973996
+Drama	2388146679
+Action|Drama|Fantasy|Horror|War	55942830
+Adventure|Family|Fantasy|Romance	69203217
+Adventure|Biography|Drama|History|War	63734450
+Action|Adventure|Horror|Sci-Fi	179340527
+Action|Fantasy|Horror	195687202
+Comedy|Drama|Musical|Romance	60961551
+Action|Sci-Fi|Sport	18990542
+Action|Adventure|Animation|Comedy|Crime|Family|Fantasy	13596911
+Adventure|Animation|Family|Fantasy|Musical	8460990
+Action|Crime|Mystery|Sci-Fi|Thriller	25121291
+Action|Comedy|Crime|Drama|Thriller	254600370
+Adventure|Drama|History|Romance	617840
+Biography|Drama|Thriller	155907441
+Action|Drama|History|Thriller	27550735
+Action|Adventure|Fantasy|War	5932060
+Comedy|Fantasy|Romance	724562948
+Action|Adventure|Comedy|Romance|Thriller|Western	93771072
+Biography|Drama|Sport|War	115603980
+Comedy|Drama|Family|Musical	85911262
+Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller	52397389
+Drama|Sport	728158307
+Action|Fantasy|Sci-Fi|Thriller	19059018
+Drama|Mystery|Romance	63593922
+Adventure|Biography|Drama|History|Sport|Thriller	43247140
+Crime|Drama|Fantasy	2208939
+Adventure|Biography|Crime|Drama|Western	25052000
+Action|War	77086030
+Comedy|Romance|Sport	147282908
+Crime|Drama|Mystery|Thriller|Western	54116191
+Comedy|Sport	709972110
+Comedy|Drama|Family	579486275
+Crime|Drama|Fantasy|Mystery	136801374
+Adventure|Animation|Biography|Drama|Family|Fantasy|Musical	101217900
+Drama|Romance|Western	149630500
+Documentary|Music	209313418
+Drama|Thriller	1105848067
+Animation|Family|Fantasy	75280058
+Action|Fantasy|Horror|Sci-Fi	59035104
+Biography|Comedy|Drama	126693027
+Action|Horror|Sci-Fi	267123769
+Adventure|Comedy	488211355
+Biography|Drama|History|Sport	101850959
+Comedy|Crime|Romance|Thriller	139271334
+Comedy|Crime|Romance	184157800
+Horror|Mystery|Sci-Fi|Thriller	51338807
+Biography|Drama|Music	224502774
+Drama|Fantasy|Sport	30695227
+Adventure|Comedy|Drama|Music	32522352
+Action|Fantasy|Horror|Sci-Fi|Thriller	29136626
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance	26288320
+Horror|Sci-Fi|Thriller	207623245
+Drama|Fantasy|Mystery|Romance|Thriller	30063805
+Action|Adventure|Drama|History|Romance|War	13082288
+Drama|Fantasy|Mystery|Romance	22451
+Fantasy|Horror|Mystery|Romance	31165421
+Adventure|Comedy|Family|Romance|Sci-Fi	11802056
+Drama|Horror|Thriller	208882597
+Action|Comedy|Mystery|Romance	7605668
+Action|Adventure|Comedy|Romance|Sci-Fi	379320037
+Action|Biography|Drama|History|Thriller|War	350123553
+Adventure|Comedy|Family|Fantasy|Horror	80021740
+Comedy|Family|Romance|Sci-Fi	35231365
+Action|Adventure|Thriller|War	204131043
+Comedy|Drama|Romance|Sport	388832195
+Comedy|Western	68145374
+Action|Comedy|Crime|Drama	28328132
+Drama|Music|Romance|War	25528495
+Action|Comedy|Drama|Family|Thriller	113006880
+Action|Crime	75962756
+Adventure|Animation|Drama|Family|History|Musical|Romance	141600000
+Action|Adventure|Drama|Romance|Sci-Fi	134218018
+Action|Adventure|Comedy|Family|Romance	105263257
+Action|Adventure|Comedy|Western	56932305
+Biography|Drama|History|Musical	49994804
+Adventure|Drama|Horror|Thriller	38553833
+Action|Drama|Sport|Thriller	18573791
+Drama|Musical|Romance|Thriller	51225796
+Comedy|Drama|Family|Fantasy	212775417
+Adventure|Comedy|Crime|Family|Musical	51178893
+Drama|Music|Musical|Romance	122976491
+Drama|Mystery|Romance|War	57089555
+Crime|Drama|Romance	27036687
+Crime|Horror|Mystery|Thriller	58933644
+Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance	58297830
+Action|Horror|Thriller	193163442
+Drama|History|Horror	22843047
+Drama|Romance|Sport	112763800
+Comedy|Family|Musical|Romance	143704210
+Romance|Sci-Fi|Thriller	62453315
+Biography|Comedy|Drama|Romance	135014968
+Mystery|Sci-Fi|Thriller	222636551
+Drama|Fantasy|Horror	170839031
+Adventure|Comedy|Drama|Fantasy|Musical	127997349
+Horror|Mystery	903228598
+Action|Adventure|Family|Fantasy|Sci-Fi|Thriller	67128202
+Adventure|Comedy|Family|Fantasy|Romance|Sport	66002004
+Adventure|Horror|Mystery	46982632
+Crime|Drama|Romance|Thriller	296041247
+Comedy|Crime|Drama|Thriller	94603839
+Drama|Fantasy	46381382
+Adventure|Comedy|Drama	211082519
+Action|Biography|Drama|History|War	20389967
+Adventure|Comedy|Fantasy	54980046
+Adventure|Comedy|Crime|Drama|Family	16671505
+Action|Biography|Crime|Drama|Thriller	10137232
+Comedy|Sci-Fi	150079816
+Action|Adventure|Comedy|Crime|Music|Mystery	21413502
+Comedy|Drama|Music	144131075
+Action|Crime|Drama|Sci-Fi|Thriller	98037583
+Horror|Thriller	564553813
+Action|Adventure|Comedy|Drama|War	60652036
+Drama|Mystery|Sci-Fi	75702879
+Crime|Drama|Music	25900000
+Adventure|Crime|Drama|Western	53574088
+Comedy|Drama|Thriller	60154431
+Drama|Romance|War	271437528
+Action|Comedy|Crime|Music|Romance|Thriller	103738726
+Crime|Romance|Thriller	69304264
+Action|Adventure|Drama|Sci-Fi|Thriller	92001027
+Action|Drama|Fantasy|Thriller|Western	10539414
+Action|Drama|Mystery|Thriller|War	58918501
+Biography|Crime|Drama|Thriller	16516147
+Action|Comedy|Crime|Romance	240949197
+Action|Adventure|Family|Fantasy|Sci-Fi	101702060
+Adventure|Comedy|Family|Musical	88625922
+Action|Horror	150498113
+Action|Adventure|Horror|Thriller	97084382
+Comedy|Drama|Music|Romance	193327756
+Action|Crime|Drama|Romance|Thriller	95350917
+Comedy|Family|Romance|Sport	52580895
+Drama|Family|Fantasy	73235546
+Drama|Fantasy|Musical|Romance	24343673
+Adventure|Comedy|Family|Fantasy|Sci-Fi	46115877
+Comedy|Musical	89077727
+Biography|Drama|History	634917049
+Action|Crime|Drama|Thriller|War	7916887
+Comedy|Crime|Thriller	178627252
+Action|Animation|Comedy|Family|Fantasy	25529689
+Biography|Drama|History|Thriller	136019448
+Action|Adventure|Crime|Drama|Mystery|Thriller	183875760
+Animation|Family|Fantasy|Musical	84300000
+Adventure|Drama|Western	356740195
+Biography|Drama|History|Romance	353023582
+Drama|Horror|Mystery|Thriller	314478529
+Action|Fantasy|Western	5664251
+Drama|Music	375292611
+Action|Drama|Family|Sport	90800000
+Action|Biography|Drama|Thriller|War	125069696
+Comedy|Drama|Sport	151644957
+Adventure|Comedy|Sci-Fi|Western	87666629
+Fantasy|Horror|Romance	82522790
+Biography|Drama|Romance	356571164
+Action|Adventure|Drama|Romance|War	97984964
+Adventure|Comedy|Crime|Romance	66808615
+Comedy|Drama|Family|Fantasy|Romance	179118611
+Horror	974879866
+Comedy|Music	530210668
+Action|Adventure|Drama|Romance|Thriller	54228104
+Biography|Drama|Music|Musical	181600169
+Drama|History	93962323
+Comedy|Music|Romance	148920050
+Action|Adventure|Crime|Fantasy|Mystery|Thriller	32055248
+Adventure|Drama|Mystery	31836745
+Biography|Crime|Drama|Music	30981850
+Crime|Drama|Horror|Thriller	161395818
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical	22717758
+Action|Adventure|Comedy|Music|Thriller	14375181
+Adventure|Animation|Comedy|Crime|Family	20999103
+Comedy|Romance|Sci-Fi|Thriller	14358033
+Comedy|Crime|Family|Romance	14018364
+Crime|Horror|Thriller	45929658
+Action|Horror|Mystery|Sci-Fi|Thriller	10326062
+Comedy|Fantasy|Sci-Fi	4777007
+Adventure|Animation|Comedy|Fantasy|Romance	511920
+Action|Adventure|Family|Thriller	652526
+Adventure|Comedy|Drama|Romance|Thriller|War	876671
+Adventure|Animation|Comedy|Fantasy|Music|Romance	25529689
+Action|Drama|Fantasy	51361333
+Action|Adventure|Drama|Fantasy|War	6498000
+Drama|Fantasy|Romance|Sci-Fi	202170189
+Animation|Comedy|Family|Horror|Sci-Fi	35287788
+Biography|Drama|Romance|Sport	8575575
+Action|Biography|Drama	6594136
+Adventure|Drama	91956227
+Horror|Mystery|Sci-Fi	53847793
+Action|Adventure|Drama|Thriller|Western	623374
+Adventure|Family|Fantasy|Sci-Fi	7871693
+Adventure|Comedy|History|Romance	25529689
+Action|Biography|Drama|Sport	52433398
+Drama|Family	157484063
+Action|Adventure|Crime|Drama|Family|Fantasy|Romance|Thriller	23360779
+Biography|Comedy|Romance	2954405
+Action|Biography|Drama|History	2126511
+Biography|Drama|War	129119101
+Adventure|Comedy|Family|Sci-Fi	63939454
+Biography|Drama|Family|History|Sport	59699513
+Biography|Comedy|Drama|History|Music	83299761
+Fantasy|Horror	368213779
+Comedy|Drama|Family|Sport	101752805
+Comedy|Drama|Romance|Sci-Fi	26494611
+Adventure|Animation|Comedy|Family|War	19447478
+Action|Comedy|Sci-Fi|Thriller	26896009
+Comedy|Horror	88126311
+Drama|Thriller|War	19396462
+Action|Western	13264986
+Action|Adventure|Family|Sci-Fi	27312265
+Adventure|Biography|Drama|Thriller	65200877
+Drama|Romance|War|Western	67159621
+Action|Comedy|Crime|Western	25529689
+Action|Adventure|Comedy|Drama|Thriller	11227940
+Drama|Music|Romance	373388459
+Action|Adventure|Crime|Drama|Thriller	34014398
+Adventure|Comedy|Family|Sport	150006955
+Comedy|Drama|Fantasy	125082975
+Comedy|Family|Sport	170834976
+Action|Adventure|Drama|Family	99462
+Action|Comedy|War	110829689
+Drama|Family|Sport	138426093
+Action|Thriller|Western	18636537
+Action|Drama|Fantasy|Horror|Thriller	10956379
+Animation|Comedy|Family|Fantasy|Musical	10054099
+Action|Adventure|Comedy|Fantasy|Romance	25529689
+Action|Crime|Drama|Mystery|Sci-Fi|Thriller	14268533
+Adventure|Comedy|Crime|Drama	59073773
+Drama|Mystery	101131089
+Comedy|Fantasy|Horror|Thriller	74153033
+Crime|Drama|Mystery|Sci-Fi|Thriller	44983704
+Comedy|Crime|Musical	170684505
+Comedy|Drama|Family|Music|Romance	84772214
+Comedy|Horror|Romance	66362923
+Comedy|Family|Fantasy|Sport	51432423
+Animation|Comedy|Family|Mystery|Sci-Fi	92765308
+Adventure|Comedy|Drama|Family|Sport	49186871
+Animation|Drama|Family|Fantasy|Musical|Romance	53337608
+Comedy|Horror|Musical|Sci-Fi	38747385
+Crime|Drama|Sport	38432823
+Action|Adventure|Animation|Drama|Mystery|Sci-Fi|Thriller	31743332
+Action|Adventure|Crime|Drama|Romance	17100000
+Action|Comedy|Horror	49034879
+Adventure|Horror|Thriller	140573417
+Adventure|Fantasy|Mystery	7689458
+Action|Drama|Romance|Sport	3101301
+Biography|Crime|Drama|History|Western	3904982
+Action|Biography|Crime|Drama	1013850
+Adventure|Animation|Fantasy	27827880
+Adventure|Animation|Comedy|Fantasy	25529689
+Biography|Drama|Music|Romance	124325102
+Biography|Comedy|Crime|Drama|Romance|Thriller	25529689
+Biography|Crime|Drama|History|Music	161029270
+Adventure|Animation|Comedy|Drama|Family|Musical	126063034
+Biography|Comedy|Drama|Music|Romance	25529689
+Adventure|Animation|Sci-Fi	25529689
+Drama|Romance|Thriller	267099952
+Action|Fantasy|Horror|Thriller	77381050
+Adventure|Biography	31600000
+Documentary	10762178
+Action|Comedy|Family	36052828
+Action|Horror|Romance	10907291
+Adventure|Drama|History|Romance|Thriller|War	25529689
+Action|Comedy|Crime|Music	54200000
+Comedy|Drama|Family|Romance	398133875
+Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller	14337579
+Adventure|Family|Fantasy|Horror|Mystery	25529689
+Action|Crime|Drama|History|Western	10297897
+Comedy|Crime|Drama	352702625
+Comedy|Family|Fantasy|Music|Romance	110222438
+Adventure|Comedy|Crime|Music	45506619
+Action|Adventure|Comedy|Sci-Fi|Thriller	36985501
+Action|Crime|Drama|Western	33200000
+Action|Adventure|Comedy|Family|Romance|Sci-Fi	23222861
+Action|Fantasy|Romance|Sci-Fi	13829734
+Comedy|Crime|Mystery|Romance	7496522
+Adventure|Family	73844236
+Action|Drama|Music|Romance	121945720
+Adventure|Comedy|Family|Fantasy|Horror|Mystery	84185387
+Adventure|Fantasy|Mystery|Thriller	29780009
+Action|Biography|Drama|History|Romance|Western	56505065
+Fantasy|Horror|Mystery	25603237
+Biography|Drama|Family	51676606
+Action|Adventure|Comedy|Crime|Family|Romance|Thriller	47285499
+Drama|Romance|Sci-Fi	98848328
+Comedy|Fantasy|Horror|Romance	52268960
+Comedy|Family|Music	29247405
+Action|Comedy|Music	25615792
+Adventure|Comedy|Crime	25590119
+Biography|Comedy|Drama|Sport	15785632
+Fantasy|Horror|Thriller	249675381
+Comedy|Drama|Romance|Thriller	55233211
+Adventure|Comedy|Family|Romance	122128208
+Adventure|Family|Fantasy|Musical	16155819
+Biography|Crime|Drama|History|Thriller	1865774
+Crime|Drama|History	11538204
+Biography|Drama|Thriller|War	102152415
+Drama|Music|Mystery|Romance|Thriller	10719367
+Action|Adventure|Fantasy|Horror	1550000
+Crime|Drama|Mystery|Romance	85433
+Action|Adventure|History|Romance	25529689
+Action|Drama|Western	1512815
+Comedy|War	102216109
+Adventure|Comedy|Family|Fantasy|Music|Sci-Fi	16290976
+Adventure|Family|Fantasy|Music|Musical	13000000
+Action|Adventure|Animation|Comedy|Fantasy	669276
+Adventure|Comedy|Horror|Sci-Fi	75590286
+Horror|Sci-Fi	106883095
+Biography|Comedy|Drama|Family|Sport	11508423
+Action|Crime|Drama|Thriller|Western	52161370
+Action|Drama|History	25529689
+Drama|Fantasy|Romance|Thriller	217631306
+Thriller	28637905
+Comedy|Mystery	76726469
+Comedy|Drama|Musical|Romance|War	5000000
+Drama|History|Music|Romance|War	1050445
+Comedy|History	634277
+Adventure|Animation|Family|Sport	25529689
+Animation|Comedy|Fantasy|Musical	52008288
+Action|Comedy|Documentary	189979788
+Adventure|Comedy|Drama|Family|Romance	94497271
+Adventure|Comedy|Drama|Family|Mystery	67325559
+Drama|Family|Music|Romance	62933793
+Fantasy|Romance	81892041
+Adventure|Animation|Family|Musical	47887943
+Animation|Comedy|Drama|Family|Musical	45542421
+Biography|Crime|Drama|History	44988180
+Adventure|Comedy|Fantasy|Music|Sci-Fi	38037513
+Comedy|Drama|Musical|Romance|Western	25529689
+Action|Adventure|Drama|Mystery	36874745
+Comedy|Crime|Family|Mystery|Romance|Thriller	25584685
+Action|Adventure|Drama|Romance|Western	21413105
+Adventure|Crime|Mystery|Sci-Fi|Thriller	28876924
+Crime|Drama|Western	22107728
+Adventure|Comedy|Drama|Fantasy	56181111
+Adventure|Biography|Drama	56230413
+Adventure|Drama|Horror|Mystery|Thriller	17529157
+Crime|Fantasy|Horror	25753840
+Animation|Family|Fantasy|Mystery	18081626
+Action|Comedy|Crime|Fantasy	137043399
+Comedy|Family|Music|Musical	16988996
+Crime|Documentary|News	14359793
+Drama|Mystery|Romance|Thriller|War	12987647
+Action|Crime|Drama|Sport	12398628
+Drama|Fantasy|Horror|Mystery	12134420
+Comedy|Drama|Music|War	11034436
+Comedy|Musical|Romance	15176733
+Comedy|Drama|Music|Musical|Romance	25529689
+Comedy|Crime|Drama|Mystery|Romance	8093318
+Biography|Comedy|Drama|History|Music|Musical	6201757
+Animation|Drama|Mystery|Sci-Fi|Thriller	5480996
+Adventure|Comedy|Drama|Romance	120528983
+Comedy|Drama|Mystery|Romance|Thriller|War	2353728
+Biography|Comedy|Musical	2000000
+Action|Adventure|Animation|Family|Sci-Fi|Thriller	410388
+Crime|Drama|Mystery|Romance|Thriller	578382
+Comedy|Family|Fantasy|Sci-Fi	146072
+Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller	1183354
+Crime|Drama|Mystery	10847200
+Romance|Short	25529689
+Animation	25529689
+Drama|Horror	25529689
+Adventure|Comedy|Romance	8396942
+Family|Fantasy|Music	2119994
+Crime|Drama|Music|Thriller	1292527
+Action|Drama|Fantasy|Mystery|Thriller	13998282
+Biography|Drama|History|Music	51600000
+Biography|Drama|Family|Sport	43853424
+Comedy|Drama|War	40060900
+Biography|Drama|Romance|War	4435083
+Action|Horror|Romance|Sci-Fi|Thriller	3500000
+Music	3419967
+Action|Drama|History|Romance|War|Western	229311
+Action|Animation|Sci-Fi|Thriller	63260
+Action|Animation|Comedy|Crime|Family	51053787
+Drama|Family|Music|Musical	7017178
+Drama|Family|Musical|Romance	72000000
+Comedy|Drama|Family|Fantasy|Sci-Fi	37566230
+Comedy|Crime|Drama|Music|Romance	21160089
+Adventure|Comedy|Family|Fantasy|Musical	11634458
+Adventure|Crime|Drama|Romance	2315683
+Comedy|Mystery|Sci-Fi|Thriller	273420
+Sci-Fi	25529689
+Drama|Fantasy|War	37623143
+Action|Comedy|Crime|Family	33357476
+Action|Comedy|Mystery	23618786
+Comedy|Crime|Mystery	19663029
+Action|Crime|Sci-Fi	1686429
+Comedy|Horror|Sci-Fi	24441814
+Action|Comedy|Drama|Thriller	25529689
+Drama|Family|Romance	50003300
+Adventure|Comedy|Family|Music|Romance	42672630
+Comedy|Horror|Thriller	30259652
+Comedy|Family|Music|Romance	29302097
+Adventure|Fantasy|Horror|Mystery|Thriller	26421314
+Crime|Drama|Musical|Romance	12549485
+Family|Music|Romance	10411980
+Biography|Drama|History|Thriller|War	9172810
+Adventure|Crime|Drama|Mystery|Western	5023275
+Drama|Fantasy|Horror|Romance	3525161
+Comedy|Crime|Drama|Thriller|War	353743
+Action|Adventure|Drama|History|Thriller|War	122288
+Action|Comedy|Drama|War	22723
+Comedy|Drama|Fantasy|Music|Romance	20380
+Biography|Drama|Fantasy|History	25529689
+Biography	25529689
+Drama|Family|Music	25529689
+Adventure|Mystery|Thriller	15483540
+Comedy|Mystery|Romance	10397365
+Biography|Crime|Drama|War	274299
+Crime|Drama|Music|Mystery|Thriller	687081
+Biography|Comedy|Drama|War	123922370
+Comedy|Crime|Family|Sci-Fi	27141959
+Adventure|Family|Sci-Fi	38916903
+Adventure|Comedy|Romance|Sci-Fi	5002310
+Action|Adventure|Comedy|Family	28399192
+Biography|Comedy|Crime|Drama|Romance	2035566
+Crime|Drama|Musical	4157491
+Animation|Comedy|Crime|Drama|Family	71442
+Action|Adventure|Comedy|Fantasy|Mystery	79817937
+Action|Adventure|Drama|Thriller|War	70011073
+Crime|Drama|Music|Romance	65269010
+Adventure|Animation|Comedy|Crime	63071133
+Adventure|Comedy|Fantasy|Sci-Fi	42365600
+Comedy|Drama|Family|Fantasy|Musical	27281507
+Comedy|Crime|Family	17292381
+Adventure|Drama|Thriller|War	11433134
+Comedy|Drama|Horror|Sci-Fi	2201412
+Adventure|Crime|Thriller	25529689
+Mystery|Romance|Sci-Fi|Thriller	25529689
+Fantasy|Mystery|Thriller	25529689
+Family|Musical	25529689
+Adventure|Crime|Drama|Mystery|Thriller	10230
+Drama|Fantasy|Music|Romance	50461335
+Adventure|Drama|History|War	25529689
+Family|Sci-Fi	434949459
+Drama|History|Romance|Western	1066555
+Adventure|Comedy|Music|Sci-Fi	40485039
+Drama|Family|Musical	16800000
+Action|Comedy|Drama|Music	33000000
+Fantasy|Horror|Sci-Fi	29500000
+Western	25529689
+Comedy|Romance|Thriller	10561238
+Biography|Crime|Drama|Romance	14479776
+Adventure|Comedy|Drama|Romance|Sci-Fi	6619173
+Drama|Music|Mystery|Romance	9473382
+Action|Crime|Drama	6044618
+
+---Avg movie duration by genre---
+genre	avg_duration
+Action|Adventure|Fantasy|Sci-Fi	134.3636
+Action|Adventure|Fantasy	117.3214
+Action|Adventure|Thriller	125.1714
+Action|Thriller	108.0417
+Action|Adventure|Sci-Fi	132.9783
+Action|Adventure|Romance	128.5000
+Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance	95.0000
+Adventure|Family|Fantasy|Mystery	152.8000
+Action|Adventure	114.1250
+Action|Adventure|Western	128.2500
+Action|Adventure|Family|Fantasy	111.8000
+Action|Adventure|Comedy|Family|Fantasy|Sci-Fi	99.2500
+Adventure|Fantasy	148.6667
+Action|Adventure|Drama|History	129.5000
+Adventure|Family|Fantasy	116.8667
+Action|Adventure|Drama|Romance	146.2500
+Drama|Romance	120.1200
+Action|Adventure|Sci-Fi|Thriller	118.5313
+Action|Adventure|Fantasy|Romance	124.0000
+Action|Adventure|Fantasy|Sci-Fi|Thriller	109.1818
+Adventure|Animation|Comedy|Family|Fantasy	90.5862
+Adventure|Animation|Comedy|Family|Sport	106.3333
+Action|Crime|Thriller	106.1538
+Action|Adventure|Horror|Sci-Fi|Thriller	104.6667
+Adventure|Animation|Family|Sci-Fi	96.5000
+Action|Comedy|Crime|Thriller	104.2632
+Animation|Drama|Family|Fantasy	96.0000
+Action|Crime|Drama|Thriller	109.8913
+Adventure|Animation|Comedy|Family	88.0417
+Action|Adventure|Animation|Comedy|Family|Sci-Fi	88.0000
+Adventure|Drama|Family|Mystery	126.0000
+Action|Comedy|Sci-Fi|Western	106.0000
+Action|Adventure|Fantasy|Horror|Thriller	112.0000
+Action|Adventure|Comedy|Sci-Fi	113.2500
+Comedy|Family|Fantasy	97.2222
+Adventure|Animation|Comedy|Drama|Family|Fantasy	95.0000
+Adventure|Drama|Family|Fantasy	99.2500
+Action|Adventure|Drama|Fantasy	152.5000
+Action|Adventure|Family|Fantasy|Romance	97.0000
+Action|Adventure|Drama|Sci-Fi	148.3333
+Action|Adventure|Romance|Sci-Fi	112.5000
+Action|Adventure|Family|Mystery|Sci-Fi	130.0000
+Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi	96.0000
+Adventure|Animation|Comedy|Family|Sci-Fi	89.4286
+Adventure|Animation|Family|Fantasy	97.8182
+Action|Sci-Fi	115.2857
+Adventure|Drama|Sci-Fi	142.5000
+Action|Adventure|Drama|Horror|Sci-Fi	120.0000
+Drama|Fantasy|Romance	121.4545
+Adventure|Sci-Fi	137.0000
+Action|Adventure|Drama|Thriller	118.4615
+Action|Drama|History|Romance|War	148.5000
+Action|Adventure|Biography|Drama|History|Romance|War	206.0000
+Action|Drama	99.2500
+Drama|Horror|Sci-Fi	102.6667
+Adventure|Comedy|Family|Fantasy	100.8333
+Animation|Comedy|Family|Fantasy	92.0000
+Action|Adventure|Animation|Comedy|Family	91.5000
+Adventure|Animation|Comedy|Family|Fantasy|Musical	91.0000
+Mystery|Thriller	116.7333
+Adventure|Animation|Comedy|Drama|Family	90.0000
+Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi	87.5000
+Comedy|Fantasy|Horror	106.5000
+Drama|Fantasy|Horror|Thriller	105.0000
+Action|Drama|Thriller	116.5882
+Adventure	196.0000
+Action|Comedy|Fantasy|Sci-Fi	118.5000
+Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi	88.0000
+Action|Adventure|Animation|Fantasy	115.0000
+Comedy|Crime	97.7027
+Action|Drama|History|War	138.6250
+Action|Adventure|Drama	127.0000
+Action|Adventure|Animation|Comedy|Family|Fantasy	101.7500
+Action|Drama|Mystery|Sci-Fi	215.0000
+Action|Adventure|Comedy|Thriller	108.6000
+Action|Adventure|Animation|Fantasy|Romance|Sci-Fi	106.0000
+Action|Adventure|Drama|History|War	147.0000
+Adventure|Drama|Fantasy|Romance	123.0000
+Animation|Comedy|Family|Musical	100.0000
+Adventure|Drama|Thriller|Western	156.0000
+Adventure|Animation|Comedy|Family|Western	107.0000
+Action|Mystery|Thriller	110.8750
+Adventure|Sci-Fi|Thriller	121.7143
+Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi	92.5000
+Action|Crime|Mystery|Thriller	109.6000
+Action|Adventure|Family|Mystery	107.0000
+Adventure|Drama|Romance|War	138.0000
+Adventure|Animation|Family|Thriller	82.0000
+Action|Fantasy	116.0000
+Action|Animation|Comedy|Family|Sci-Fi	93.3333
+Action|Comedy|Fantasy	102.6667
+Fantasy	97.5000
+Adventure|Animation|Comedy|Family|Musical	86.6667
+Action|Adventure|Crime|Mystery|Thriller	128.5000
+Action|Adventure|History	103.0000
+Action	111.2500
+Adventure|Drama|Fantasy	116.6667
+Action|Fantasy|Thriller	114.0000
+Action|Adventure|Comedy|Crime	98.0000
+Adventure|Mystery|Sci-Fi	141.7500
+Action|Drama|Sci-Fi|Thriller	110.8750
+Action|Crime|Sci-Fi|Thriller	106.6000
+Action|Family|Sport	135.0000
+Comedy|Drama|Romance	108.9697
+Action|Comedy|Romance	105.0000
+Action|Adventure|Mystery|Sci-Fi	116.5000
+Action|Drama|War	134.7778
+Adventure|Drama|Sci-Fi|Thriller	129.0000
+Action|Adventure|Comedy|Family|Fantasy	108.0000
+Crime|Thriller	111.8667
+Action|Comedy|Crime|Romance|Thriller	108.0000
+Biography|Drama	119.8182
+Action|Comedy|Crime|Sci-Fi|Thriller	119.0000
+Action|Drama|Fantasy|War	109.5000
+Animation|Comedy|Family|Music|Western	76.0000
+Action|Adventure|Mystery|Sci-Fi|Thriller	114.6667
+Action|Drama|Sci-Fi|Sport	127.0000
+Action|Crime|Romance|Thriller	117.3333
+Action|Adventure|Comedy	108.6000
+Biography|Drama|Sport	126.0000
+Action|Mystery|Sci-Fi|Thriller	122.0000
+Animation|Family|Fantasy|Musical|Romance	97.0000
+Action|Adventure|Romance|Sci-Fi|Thriller	125.6667
+Comedy|Romance	102.6250
+Action|Drama|Romance	133.6667
+Biography|Crime|Drama|History|Romance	140.0000
+Biography|Crime|Drama	141.1818
+Action|Comedy|Thriller	116.0000
+Action|Comedy|Crime	101.1154
+Action|Drama|Mystery|Thriller	115.0000
+Drama|Western	127.0000
+Animation|Drama|Family|Musical|Romance	91.0000
+Action|Adventure|Comedy|Family|Mystery	131.0000
+Action|Romance|Thriller	103.0000
+Action|Fantasy|Horror|Mystery	121.0000
+Adventure|Drama|Thriller	118.4000
+Biography|Comedy|Crime|Drama	157.6667
+Action|Sci-Fi|War	129.0000
+Drama|Sci-Fi	138.0000
+Action|Adventure|Animation|Family|Fantasy	101.0000
+Action|Crime|Fantasy|Romance|Thriller	87.0000
+Adventure|Comedy|Sci-Fi	107.6250
+Action|Crime|Sport|Thriller	114.0000
+Action|Adventure|Biography|Drama|History|Thriller	122.0000
+Action|Comedy|Sci-Fi	105.5714
+Action|Drama|Thriller|War	124.1667
+Drama|Mystery|Thriller	111.6957
+Action|Adventure|Fantasy|Thriller	119.0000
+Crime|Drama	149.0000
+Drama|History|Romance|War	131.6667
+Animation|Comedy|Family|Sport	85.0000
+Comedy|Sci-Fi|Thriller	93.0000
+Drama|History|War	159.2143
+Comedy	98.2124
+Adventure|Animation|Comedy|Family|Romance	85.6667
+Drama|Family|Fantasy|Romance	97.5000
+Drama|Fantasy|Thriller	117.5000
+Drama|Mystery|Romance|Sci-Fi|Thriller	119.0000
+Drama|History|War|Western	137.0000
+Action|Adventure|Animation|Family	115.0000
+Adventure|Comedy|Family|Mystery|Sci-Fi	98.0000
+Drama|Fantasy|Horror|Mystery|Thriller	109.5000
+Animation|Comedy|Family|Sci-Fi	94.0000
+Adventure|Comedy|Drama|Fantasy|Romance	114.0000
+Action|Adventure|Comedy|Crime|Thriller	94.0000
+Crime|Drama|Thriller	118.5000
+Adventure|Animation|Family|Fantasy|Musical|War	88.0000
+Action|Comedy	99.9000
+Crime|Drama|Mystery|Thriller	119.7143
+Adventure|Drama|History	147.6000
+Action|Adventure|Animation|Family|Fantasy|Sci-Fi	95.0000
+Adventure|Animation|Comedy|Family|Fantasy|Music	89.5000
+Drama|History|Thriller|War	130.0000
+Action|Animation|Comedy|Sci-Fi	106.0000
+Comedy|Family|Fantasy|Horror|Mystery	88.0000
+Drama|Mystery|Sci-Fi|Thriller	118.6667
+Action|Horror|Sci-Fi|Thriller	103.1429
+Crime|Mystery|Thriller	110.0000
+Action|Adventure|Comedy|Crime|Mystery|Thriller	129.0000
+Comedy|Drama|Sci-Fi	117.5000
+Action|Family|Fantasy|Musical	110.0000
+Drama|History|Sport	117.7500
+Adventure|Drama|Romance	113.2000
+Animation|Comedy|Family|Music|Romance	108.0000
+Animation|Comedy|Family|Fantasy|Musical|Romance	107.0000
+Adventure|Comedy|Family	97.0000
+Action|Crime|Drama|Mystery|Thriller	112.8500
+Action|Adventure|Comedy|Fantasy	109.6667
+Comedy|Drama|Music|Musical	123.0000
+Adventure|Comedy|Drama|Family|Fantasy	96.0000
+Action|Comedy|Fantasy|Romance	112.0000
+Comedy|Romance|Sci-Fi	104.2000
+Adventure|Comedy|Mystery	90.5000
+Comedy|Drama|Fantasy|Romance	109.7500
+Action|Comedy|Family|Fantasy	84.5000
+Action|Adventure|Fantasy|Horror|Sci-Fi	120.0000
+Crime|Drama|History|Mystery|Thriller	162.0000
+Comedy|Drama	109.3235
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi	85.0000
+Action|Drama|Romance|Sci-Fi|Thriller	120.0000
+Comedy|Crime|Sport	113.0000
+Comedy|Family|Fantasy|Romance	97.8000
+Adventure|Drama|History|Romance|War	154.0000
+Comedy|Family|Sci-Fi	89.5000
+Fantasy|Horror|Mystery|Thriller	102.6667
+Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport	88.0000
+Adventure|Comedy|Crime|Family|Mystery	93.0000
+Drama|Sci-Fi|Thriller	103.2857
+Action|Crime|Mystery|Romance|Thriller	118.0000
+Action|Adventure|Comedy|Romance	98.0000
+Adventure|Animation|Family|Western	83.0000
+Comedy|Family|Romance	100.8889
+Action|Adventure|Family|Sci-Fi|Thriller	130.0000
+Animation|Family|Fantasy|Music	74.0000
+Action|Adventure|Family|Fantasy|Thriller	114.0000
+Comedy|Fantasy	99.2000
+Action|Adventure|Comedy|Fantasy|Thriller	118.0000
+Drama|Horror|Mystery|Sci-Fi	81.0000
+Action|Sci-Fi|Thriller	105.6429
+Drama|History|Thriller	147.8750
+Adventure|Animation|Family	82.2500
+Drama|Musical|Romance	134.1667
+Documentary|Drama	104.0000
+Action|Adventure|Drama|History|Romance	114.6667
+Animation|Family	89.0000
+Adventure|Animation|Drama|Family|Musical	73.0000
+Animation|Comedy|Family|Fantasy|Sci-Fi	95.0000
+Adventure|Animation|Drama|Family|Fantasy	108.0000
+Sci-Fi|Thriller	107.8333
+Animation|Comedy|Family	88.6000
+Action|Crime|Fantasy|Thriller	104.3333
+Comedy|Drama|Family|Music|Musical|Romance	114.5000
+Horror|Mystery|Thriller	104.1304
+Action|Adventure|Comedy|Family|Sci-Fi	95.2500
+Comedy|Family	94.1364
+Biography|Comedy|Drama|History	116.0000
+Drama|Music|Musical	130.0000
+Comedy|Crime|Music	113.0000
+Action|Comedy|Romance|Thriller	100.0000
+Animation|Comedy|Family|Fantasy|Mystery	91.0000
+Comedy|Crime|Drama|Romance	114.0000
+Action|Adventure|Romance|Thriller	134.0000
+Drama|History|Romance	148.0000
+Action|Drama|Fantasy|Romance	110.0000
+Action|Adventure|Animation|Family|Sci-Fi	94.0000
+Action|Drama|Sci-Fi	99.0000
+Drama|Horror|Sci-Fi|Thriller	105.6250
+Animation|Comedy|Fantasy	93.0000
+Action|Animation|Comedy|Family	97.0000
+Action|Adventure|Comedy|Romance|Thriller	112.0000
+Action|Comedy|Sport	113.5000
+Biography|Drama|History|War	151.6667
+Adventure|Animation|Comedy	83.5000
+Action|Drama|Sport	111.0000
+Adventure|Drama|Family	106.0000
+Drama|Mystery|Romance|Thriller	112.7500
+Adventure|Animation|Comedy|Family|Fantasy|Romance	94.0000
+Adventure|Drama|War	153.0000
+Action|Adventure|Crime|Thriller	114.6250
+Fantasy|Mystery|Romance|Sci-Fi|Thriller	141.0000
+Drama|Fantasy|Mystery|Thriller	112.5000
+Animation|Comedy|Family|Fantasy|Music	90.0000
+Drama|Horror|Romance|Thriller	116.5000
+Drama|War	140.0667
+Drama	125.5714
+Action|Drama|Fantasy|Horror|War	92.0000
+Adventure|Family|Fantasy|Romance	112.5000
+Adventure|Biography|Drama|History|War	161.7500
+Action|Adventure|Horror|Sci-Fi	100.2500
+Action|Fantasy|Horror	97.7500
+Comedy|Drama|Musical|Romance	129.5000
+Action|Sci-Fi|Sport	98.0000
+Action|Adventure|Animation|Comedy|Crime|Family|Fantasy	95.0000
+Adventure|Animation|Family|Fantasy|Musical	88.0000
+Action|Crime|Mystery|Sci-Fi|Thriller	115.0000
+Action|Comedy|Crime|Drama|Thriller	102.0000
+Adventure|Drama|History|Romance	141.0000
+Biography|Drama|Thriller	122.5000
+Action|Drama|History|Thriller	117.0000
+Action|Adventure|Fantasy|War	102.0000
+Comedy|Fantasy|Romance	101.3636
+Action|Adventure|Comedy|Romance|Thriller|Western	136.0000
+Biography|Drama|Sport|War	137.0000
+Comedy|Drama|Family|Musical	118.0000
+Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller	122.0000
+Drama|Sport	124.3750
+Action|Fantasy|Sci-Fi|Thriller	92.0000
+Drama|Mystery|Romance	117.6667
+Adventure|Biography|Drama|History|Sport|Thriller	121.0000
+Crime|Drama|Fantasy	147.0000
+Adventure|Biography|Crime|Drama|Western	212.0000
+Action|War	116.0000
+Comedy|Romance|Sport	94.1667
+Crime|Drama|Mystery|Thriller|Western	187.0000
+Comedy|Sport	101.2500
+Comedy|Drama|Family	107.6667
+Crime|Drama|Fantasy|Mystery	189.0000
+Adventure|Animation|Biography|Drama|Family|Fantasy|Musical	99.0000
+Drama|Romance|Western	161.0000
+Documentary|Music	102.0000
+Drama|Thriller	113.5806
+Animation|Family|Fantasy	100.0000
+Action|Fantasy|Horror|Sci-Fi	132.0000
+Biography|Comedy|Drama	125.2500
+Action|Horror|Sci-Fi	108.8571
+Adventure|Comedy	96.9167
+Biography|Drama|History|Sport	134.5000
+Comedy|Crime|Romance|Thriller	113.0000
+Comedy|Crime|Romance	109.6667
+Horror|Mystery|Sci-Fi|Thriller	97.0000
+Biography|Drama|Music	128.3750
+Drama|Fantasy|Sport	126.0000
+Adventure|Comedy|Drama|Music	152.0000
+Action|Fantasy|Horror|Sci-Fi|Thriller	87.0000
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance	85.0000
+Horror|Sci-Fi|Thriller	104.2222
+Drama|Fantasy|Mystery|Romance|Thriller	104.0000
+Action|Adventure|Drama|History|Romance|War	140.0000
+Drama|Fantasy|Mystery|Romance	118.0000
+Fantasy|Horror|Mystery|Romance	130.0000
+Adventure|Comedy|Family|Romance|Sci-Fi	90.0000
+Drama|Horror|Thriller	99.8000
+Action|Comedy|Mystery|Romance	107.0000
+Action|Adventure|Comedy|Romance|Sci-Fi	109.0000
+Action|Biography|Drama|History|Thriller|War	133.0000
+Adventure|Comedy|Family|Fantasy|Horror	103.0000
+Comedy|Family|Romance|Sci-Fi	90.0000
+Action|Adventure|Thriller|War	91.5000
+Comedy|Drama|Romance|Sport	113.1111
+Comedy|Western	127.5000
+Action|Comedy|Crime|Drama	97.0000
+Drama|Music|Romance|War	131.0000
+Action|Comedy|Drama|Family|Thriller	95.0000
+Action|Crime	98.0000
+Adventure|Animation|Drama|Family|History|Musical|Romance	84.0000
+Action|Adventure|Drama|Romance|Sci-Fi	188.0000
+Action|Adventure|Comedy|Family|Romance	92.0000
+Action|Adventure|Comedy|Western	110.0000
+Biography|Drama|History|Musical	135.0000
+Adventure|Drama|Horror|Thriller	110.0000
+Action|Drama|Sport|Thriller	116.0000
+Drama|Musical|Romance|Thriller	143.0000
+Comedy|Drama|Family|Fantasy	103.0000
+Adventure|Comedy|Crime|Family|Musical	119.0000
+Drama|Music|Musical|Romance	117.6667
+Drama|Mystery|Romance|War	128.0000
+Crime|Drama|Romance	121.5000
+Crime|Horror|Mystery|Thriller	98.0000
+Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance	94.0000
+Action|Horror|Thriller	116.4000
+Drama|History|Horror	172.0000
+Drama|Romance|Sport	121.4000
+Comedy|Family|Musical|Romance	108.0000
+Romance|Sci-Fi|Thriller	106.0000
+Biography|Comedy|Drama|Romance	115.0000
+Mystery|Sci-Fi|Thriller	100.7500
+Drama|Fantasy|Horror	108.0000
+Adventure|Comedy|Drama|Fantasy|Musical	125.0000
+Horror|Mystery	102.5294
+Action|Adventure|Family|Fantasy|Sci-Fi|Thriller	98.0000
+Adventure|Comedy|Family|Fantasy|Romance|Sport	101.0000
+Adventure|Horror|Mystery	132.0000
+Crime|Drama|Romance|Thriller	118.7692
+Comedy|Crime|Drama|Thriller	107.4000
+Drama|Fantasy	143.0000
+Adventure|Comedy|Drama	108.6667
+Action|Biography|Drama|History|War	139.0000
+Adventure|Comedy|Fantasy	98.5000
+Adventure|Comedy|Crime|Drama|Family	99.0000
+Action|Biography|Crime|Drama|Thriller	127.0000
+Comedy|Sci-Fi	89.8000
+Action|Adventure|Comedy|Crime|Music|Mystery	104.0000
+Comedy|Drama|Music	113.2857
+Action|Crime|Drama|Sci-Fi|Thriller	119.5000
+Horror|Thriller	94.6471
+Action|Adventure|Comedy|Drama|War	114.0000
+Drama|Mystery|Sci-Fi	117.5000
+Crime|Drama|Music	123.0000
+Adventure|Crime|Drama|Western	122.0000
+Comedy|Drama|Thriller	96.0000
+Drama|Romance|War	133.2857
+Action|Comedy|Crime|Music|Romance|Thriller	105.0000
+Crime|Romance|Thriller	113.0000
+Action|Adventure|Drama|Sci-Fi|Thriller	111.0000
+Action|Drama|Fantasy|Thriller|Western	81.0000
+Action|Drama|Mystery|Thriller|War	116.0000
+Biography|Crime|Drama|Thriller	112.5000
+Action|Comedy|Crime|Romance	104.0000
+Action|Adventure|Family|Fantasy|Sci-Fi	93.0000
+Adventure|Comedy|Family|Musical	103.0000
+Action|Horror	99.6667
+Action|Adventure|Horror|Thriller	93.0000
+Comedy|Drama|Music|Romance	108.0000
+Action|Crime|Drama|Romance|Thriller	108.5000
+Comedy|Family|Romance|Sport	95.0000
+Drama|Family|Fantasy	98.5000
+Drama|Fantasy|Musical|Romance	133.0000
+Adventure|Comedy|Family|Fantasy|Sci-Fi	95.0000
+Comedy|Musical	124.0000
+Biography|Drama|History	147.5652
+Action|Crime|Drama|Thriller|War	160.0000
+Comedy|Crime|Thriller	96.6250
+Action|Animation|Comedy|Family|Fantasy	91.0000
+Biography|Drama|History|Thriller	130.0000
+Action|Adventure|Crime|Drama|Mystery|Thriller	130.0000
+Animation|Family|Fantasy|Musical	88.0000
+Adventure|Drama|Western	223.6667
+Biography|Drama|History|Romance	150.3000
+Drama|Horror|Mystery|Thriller	101.5000
+Action|Fantasy|Western	100.0000
+Drama|Music	115.8182
+Action|Drama|Family|Sport	126.0000
+Action|Biography|Drama|Thriller|War	121.0000
+Comedy|Drama|Sport	118.5000
+Adventure|Comedy|Sci-Fi|Western	118.0000
+Fantasy|Horror|Romance	155.0000
+Biography|Drama|Romance	117.0769
+Action|Adventure|Drama|Romance|War	193.5000
+Adventure|Comedy|Crime|Romance	123.0000
+Comedy|Drama|Family|Fantasy|Romance	116.0000
+Horror	100.6087
+Comedy|Music	104.6364
+Action|Adventure|Drama|Romance|Thriller	131.0000
+Biography|Drama|Music|Musical	128.2000
+Drama|History	130.2500
+Comedy|Music|Romance	95.7500
+Action|Adventure|Crime|Fantasy|Mystery|Thriller	93.0000
+Adventure|Drama|Mystery	129.0000
+Biography|Crime|Drama|Music	117.0000
+Crime|Drama|Horror|Thriller	118.6667
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical	86.0000
+Action|Adventure|Comedy|Music|Thriller	107.0000
+Adventure|Animation|Comedy|Crime|Family	87.0000
+Comedy|Romance|Sci-Fi|Thriller	99.0000
+Comedy|Crime|Family|Romance	91.0000
+Crime|Horror|Thriller	107.5000
+Action|Horror|Mystery|Sci-Fi|Thriller	108.0000
+Comedy|Fantasy|Sci-Fi	84.0000
+Adventure|Animation|Comedy|Fantasy|Romance	94.0000
+Action|Adventure|Family|Thriller	93.0000
+Adventure|Comedy|Drama|Romance|Thriller|War	101.0000
+Adventure|Animation|Comedy|Fantasy|Music|Romance	90.0000
+Action|Drama|Fantasy	100.5000
+Action|Adventure|Drama|Fantasy|War	159.0000
+Drama|Fantasy|Romance|Sci-Fi	112.6667
+Animation|Comedy|Family|Horror|Sci-Fi	87.0000
+Biography|Drama|Romance|Sport	119.0000
+Action|Biography|Drama	122.0000
+Adventure|Drama	112.5714
+Horror|Mystery|Sci-Fi	106.5000
+Action|Adventure|Drama|Thriller|Western	110.0000
+Adventure|Family|Fantasy|Sci-Fi	90.0000
+Adventure|Comedy|History|Romance	97.0000
+Action|Biography|Drama|Sport	114.0000
+Drama|Family	103.5000
+Action|Adventure|Crime|Drama|Family|Fantasy|Romance|Thriller	124.0000
+Biography|Comedy|Romance	95.0000
+Action|Biography|Drama|History	105.0000
+Biography|Drama|War	142.2500
+Adventure|Comedy|Family|Sci-Fi	100.0000
+Biography|Drama|Family|History|Sport	123.0000
+Biography|Comedy|Drama|History|Music	125.0000
+Fantasy|Horror	98.8750
+Comedy|Drama|Family|Sport	104.5000
+Comedy|Drama|Romance|Sci-Fi	112.0000
+Adventure|Animation|Comedy|Family|War	76.0000
+Action|Comedy|Sci-Fi|Thriller	85.0000
+Comedy|Horror	95.7500
+Drama|Thriller|War	118.5000
+Action|Western	94.0000
+Action|Adventure|Family|Sci-Fi	108.5000
+Adventure|Biography|Drama|Thriller	112.3333
+Drama|Romance|War|Western	140.5000
+Action|Comedy|Crime|Western	93.0000
+Action|Adventure|Comedy|Drama|Thriller	102.0000
+Drama|Music|Romance	109.0000
+Action|Adventure|Crime|Drama|Thriller	105.0000
+Adventure|Comedy|Family|Sport	98.5000
+Comedy|Drama|Fantasy	116.6667
+Comedy|Family|Sport	101.0000
+Action|Adventure|Drama|Family	105.0000
+Action|Comedy|War	129.5000
+Drama|Family|Sport	113.3333
+Action|Thriller|Western	107.0000
+Action|Drama|Fantasy|Horror|Thriller	107.0000
+Animation|Comedy|Family|Fantasy|Musical	74.5000
+Action|Adventure|Comedy|Fantasy|Romance	93.0000
+Action|Crime|Drama|Mystery|Sci-Fi|Thriller	113.0000
+Adventure|Comedy|Crime|Drama	99.0000
+Drama|Mystery	120.0000
+Comedy|Fantasy|Horror|Thriller	94.3333
+Crime|Drama|Mystery|Sci-Fi|Thriller	118.0000
+Comedy|Crime|Musical	113.0000
+Comedy|Drama|Family|Music|Romance	106.5000
+Comedy|Horror|Romance	95.0000
+Comedy|Family|Fantasy|Sport	99.0000
+Animation|Comedy|Family|Mystery|Sci-Fi	83.5000
+Adventure|Comedy|Drama|Family|Sport	102.0000
+Animation|Drama|Family|Fantasy|Musical|Romance	77.0000
+Comedy|Horror|Musical|Sci-Fi	102.0000
+Crime|Drama|Sport	125.0000
+Action|Adventure|Animation|Drama|Mystery|Sci-Fi|Thriller	79.0000
+Action|Adventure|Crime|Drama|Romance	105.0000
+Action|Comedy|Horror	90.5000
+Adventure|Horror|Thriller	104.5000
+Adventure|Fantasy|Mystery	123.0000
+Action|Drama|Romance|Sport	80.0000
+Biography|Crime|Drama|History|Western	160.0000
+Action|Biography|Crime|Drama	156.5000
+Adventure|Animation|Fantasy	109.5000
+Adventure|Animation|Comedy|Fantasy	89.0000
+Biography|Drama|Music|Romance	135.0000
+Biography|Comedy|Crime|Drama|Romance|Thriller	113.0000
+Biography|Crime|Drama|History|Music	167.0000
+Adventure|Animation|Comedy|Drama|Family|Musical	82.5000
+Biography|Comedy|Drama|Music|Romance	110.0000
+Adventure|Animation|Sci-Fi	115.0000
+Drama|Romance|Thriller	112.0000
+Action|Fantasy|Horror|Thriller	96.0000
+Adventure|Biography	139.0000
+Documentary	81.0000
+Action|Comedy|Family	93.5000
+Action|Horror|Romance	108.0000
+Adventure|Drama|History|Romance|Thriller|War	145.0000
+Action|Comedy|Crime|Music	148.0000
+Comedy|Drama|Family|Romance	114.0000
+Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller	111.0000
+Adventure|Family|Fantasy|Horror|Mystery	109.0000
+Action|Crime|Drama|History|Western	123.0000
+Comedy|Crime|Drama	106.0909
+Comedy|Family|Fantasy|Music|Romance	97.0000
+Adventure|Comedy|Crime|Music	107.0000
+Action|Adventure|Comedy|Sci-Fi|Thriller	94.0000
+Action|Crime|Drama|Western	133.0000
+Action|Adventure|Comedy|Family|Romance|Sci-Fi	100.0000
+Action|Fantasy|Romance|Sci-Fi	99.0000
+Comedy|Crime|Mystery|Romance	103.0000
+Adventure|Family	94.0000
+Action|Drama|Music|Romance	129.0000
+Adventure|Comedy|Family|Fantasy|Horror|Mystery	93.0000
+Adventure|Fantasy|Mystery|Thriller	108.0000
+Action|Biography|Drama|History|Romance|Western	134.0000
+Fantasy|Horror|Mystery	105.0000
+Biography|Drama|Family	101.0000
+Action|Adventure|Comedy|Crime|Family|Romance|Thriller	102.0000
+Drama|Romance|Sci-Fi	113.2000
+Comedy|Fantasy|Horror|Romance	94.5000
+Comedy|Family|Music	93.0000
+Action|Comedy|Music	88.0000
+Adventure|Comedy|Crime	92.0000
+Biography|Comedy|Drama|Sport	106.0000
+Fantasy|Horror|Thriller	98.3333
+Comedy|Drama|Romance|Thriller	105.0000
+Adventure|Comedy|Family|Romance	98.0000
+Adventure|Family|Fantasy|Musical	89.0000
+Biography|Crime|Drama|History|Thriller	132.0000
+Crime|Drama|History	122.0000
+Biography|Drama|Thriller|War	123.5000
+Drama|Music|Mystery|Romance|Thriller	99.0000
+Action|Adventure|Fantasy|Horror	92.0000
+Crime|Drama|Mystery|Romance	131.0000
+Action|Adventure|History|Romance	121.0000
+Action|Drama|Western	98.0000
+Comedy|War	101.5000
+Adventure|Comedy|Family|Fantasy|Music|Sci-Fi	87.0000
+Adventure|Family|Fantasy|Music|Musical	118.0000
+Action|Adventure|Animation|Comedy|Fantasy	80.0000
+Adventure|Comedy|Horror|Sci-Fi	88.0000
+Horror|Sci-Fi	109.6000
+Biography|Comedy|Drama|Family|Sport	94.0000
+Action|Crime|Drama|Thriller|Western	102.5000
+Action|Drama|History	139.0000
+Drama|Fantasy|Romance|Thriller	127.0000
+Thriller	111.0000
+Comedy|Mystery	94.5000
+Comedy|Drama|Musical|Romance|War	143.0000
+Drama|History|Music|Romance|War	116.0000
+Comedy|History	120.0000
+Adventure|Animation|Family|Sport	106.0000
+Animation|Comedy|Fantasy|Musical	81.0000
+Action|Comedy|Documentary	96.5000
+Adventure|Comedy|Drama|Family|Romance	91.0000
+Adventure|Comedy|Drama|Family|Mystery	117.0000
+Drama|Family|Music|Romance	107.0000
+Fantasy|Romance	102.0000
+Adventure|Animation|Family|Musical	72.0000
+Animation|Comedy|Drama|Family|Musical	77.0000
+Biography|Crime|Drama|History	128.0000
+Adventure|Comedy|Fantasy|Music|Sci-Fi	93.0000
+Comedy|Drama|Musical|Romance|Western	158.0000
+Action|Adventure|Drama|Mystery	107.0000
+Comedy|Crime|Family|Mystery|Romance|Thriller	99.0000
+Action|Adventure|Drama|Romance|Western	119.0000
+Adventure|Crime|Mystery|Sci-Fi|Thriller	96.0000
+Crime|Drama|Western	109.5000
+Adventure|Comedy|Drama|Fantasy	125.5000
+Adventure|Biography|Drama	131.5000
+Adventure|Drama|Horror|Mystery|Thriller	95.0000
+Crime|Fantasy|Horror	108.0000
+Animation|Family|Fantasy|Mystery	68.0000
+Action|Comedy|Crime|Fantasy	106.5000
+Comedy|Family|Music|Musical	88.0000
+Crime|Documentary|News	105.0000
+Drama|Mystery|Romance|Thriller|War	101.0000
+Action|Crime|Drama|Sport	94.0000
+Drama|Fantasy|Horror|Mystery	116.0000
+Comedy|Drama|Music|War	103.0000
+Comedy|Musical|Romance	98.6667
+Comedy|Drama|Music|Musical|Romance	154.0000
+Comedy|Crime|Drama|Mystery|Romance	148.0000
+Biography|Comedy|Drama|History|Music|Musical	154.0000
+Animation|Drama|Mystery|Sci-Fi|Thriller	100.0000
+Adventure|Comedy|Drama|Romance	111.3333
+Comedy|Drama|Mystery|Romance|Thriller|War	114.0000
+Biography|Comedy|Musical	124.0000
+Action|Adventure|Animation|Family|Sci-Fi|Thriller	103.0000
+Crime|Drama|Mystery|Romance|Thriller	101.0000
+Comedy|Family|Fantasy|Sci-Fi	118.0000
+Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller	107.0000
+Crime|Drama|Mystery	100.0000
+Romance|Short	7.0000
+Animation	98.0000
+Drama|Horror	146.0000
+Adventure|Comedy|Romance	129.0000
+Family|Fantasy|Music	92.0000
+Crime|Drama|Music|Thriller	116.0000
+Action|Drama|Fantasy|Mystery|Thriller	110.0000
+Biography|Drama|History|Music	180.0000
+Biography|Drama|Family|Sport	106.0000
+Comedy|Drama|War	118.0000
+Biography|Drama|Romance|War	116.0000
+Action|Horror|Romance|Sci-Fi|Thriller	93.0000
+Music	93.0000
+Action|Drama|History|Romance|War|Western	121.0000
+Action|Animation|Sci-Fi|Thriller	105.0000
+Action|Animation|Comedy|Crime|Family	80.0000
+Drama|Family|Music|Musical	93.0000
+Drama|Family|Musical|Romance	170.0000
+Comedy|Drama|Family|Fantasy|Sci-Fi	87.0000
+Comedy|Crime|Drama|Music|Romance	105.0000
+Adventure|Comedy|Family|Fantasy|Musical	73.0000
+Adventure|Crime|Drama|Romance	97.0000
+Comedy|Mystery|Sci-Fi|Thriller	160.0000
+Sci-Fi	91.0000
+Drama|Fantasy|War	112.0000
+Action|Comedy|Crime|Family	94.0000
+Action|Comedy|Mystery	121.0000
+Comedy|Crime|Mystery	99.5000
+Action|Crime|Sci-Fi	97.0000
+Comedy|Horror|Sci-Fi	95.5000
+Action|Comedy|Drama|Thriller	103.0000
+Drama|Family|Romance	115.0000
+Adventure|Comedy|Family|Music|Romance	94.0000
+Comedy|Horror|Thriller	94.0000
+Comedy|Family|Music|Romance	89.0000
+Adventure|Fantasy|Horror|Mystery|Thriller	90.0000
+Crime|Drama|Musical|Romance	121.0000
+Family|Music|Romance	103.0000
+Biography|Drama|History|Thriller|War	108.0000
+Adventure|Crime|Drama|Mystery|Western	107.0000
+Drama|Fantasy|Horror|Romance	98.0000
+Comedy|Crime|Drama|Thriller|War	98.0000
+Action|Adventure|Drama|History|Thriller|War	97.0000
+Action|Comedy|Drama|War	105.0000
+Comedy|Drama|Fantasy|Music|Romance	93.0000
+Biography|Drama|Fantasy|History	141.0000
+Biography	98.0000
+Drama|Family|Music	94.0000
+Adventure|Mystery|Thriller	108.0000
+Comedy|Mystery|Romance	86.0000
+Biography|Crime|Drama|War	132.0000
+Crime|Drama|Music|Mystery|Thriller	105.0000
+Biography|Comedy|Drama|War	121.0000
+Comedy|Crime|Family|Sci-Fi	97.0000
+Adventure|Family|Sci-Fi	91.0000
+Adventure|Comedy|Romance|Sci-Fi	84.0000
+Action|Adventure|Comedy|Family	90.0000
+Biography|Comedy|Crime|Drama|Romance	102.0000
+Crime|Drama|Musical	140.0000
+Animation|Comedy|Crime|Drama|Family	80.0000
+Action|Adventure|Comedy|Fantasy|Mystery	94.0000
+Action|Adventure|Drama|Thriller|War	110.0000
+Crime|Drama|Music|Romance	104.0000
+Adventure|Animation|Comedy|Crime	81.0000
+Adventure|Comedy|Fantasy|Sci-Fi	103.0000
+Comedy|Drama|Family|Fantasy|Musical	89.0000
+Comedy|Crime|Family	91.0000
+Adventure|Drama|Thriller|War	293.0000
+Comedy|Drama|Horror|Sci-Fi	110.0000
+Adventure|Crime|Thriller	100.0000
+Mystery|Romance|Sci-Fi|Thriller	95.0000
+Fantasy|Mystery|Thriller	99.0000
+Family|Musical	89.0000
+Adventure|Crime|Drama|Mystery|Thriller	114.0000
+Drama|Fantasy|Music|Romance	107.0000
+Adventure|Drama|History|War	184.0000
+Family|Sci-Fi	120.0000
+Drama|History|Romance|Western	111.0000
+Adventure|Comedy|Music|Sci-Fi	90.0000
+Drama|Family|Musical	153.0000
+Action|Comedy|Drama|Music	109.0000
+Fantasy|Horror|Sci-Fi	101.0000
+Western	100.0000
+Comedy|Romance|Thriller	97.0000
+Biography|Crime|Drama|Romance	106.0000
+Adventure|Comedy|Drama|Romance|Sci-Fi	101.0000
+Drama|Music|Mystery|Romance	130.0000
+Action|Crime|Drama	96.0000
+
+---Movie released per year---
+title_year	movies_per_year
+2009	158
+2007	131
+2015	118
+2012	133
+2010	143
+2016	69
+2006	153
+2008	159
+2013	138
+2011	138
+2014	131
+2005	143
+1997	82
+2004	145
+1999	121
+1995	52
+2003	111
+2001	140
+2002	147
+1998	93
+2000	120
+1990	23
+1991	22
+1994	42
+1996	73
+1982	15
+1993	33
+1979	8
+1992	28
+1989	20
+1984	19
+1988	15
+1978	8
+1962	3
+1980	14
+1972	1
+1981	17
+1968	3
+1985	18
+1940	1
+1963	2
+1987	17
+1986	16
+1973	2
+1983	13
+1976	2
+1977	8
+1970	6
+1971	1
+1969	3
+1960	1
+1965	2
+1964	2
+1927	1
+1974	1
+1937	1
+1975	2
+
+---Movie by Genre & Rating category---
+genre	rating_category	movie_count
+Action|Adventure|Fantasy|Sci-Fi	High	6
+Action|Adventure|Fantasy	High	7
+Action|Adventure|Thriller	Medium	23
+Action|Thriller	High	5
+Action|Adventure|Sci-Fi	Medium	25
+Action|Adventure|Romance	Medium	3
+Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance	High	2
+Action|Adventure|Sci-Fi	High	17
+Adventure|Family|Fantasy|Mystery	High	5
+Action|Adventure	Medium	3
+Action|Adventure|Western	Medium	4
+Action|Adventure|Family|Fantasy	Medium	3
+Action|Adventure|Fantasy	Medium	18
+Action|Adventure|Comedy|Family|Fantasy|Sci-Fi	Medium	3
+Adventure|Fantasy	High	3
+Action|Adventure|Drama|History	Medium	2
+Adventure|Family|Fantasy	Medium	13
+Action|Adventure|Drama|Romance	High	2
+Drama|Romance	High	37
+Action|Adventure|Sci-Fi|Thriller	Medium	26
+Action|Adventure|Thriller	High	10
+Action|Adventure|Fantasy|Romance	High	2
+Action|Adventure|Fantasy|Sci-Fi|Thriller	Medium	6
+Adventure|Animation|Comedy|Family|Fantasy	High	11
+Action|Adventure|Fantasy|Sci-Fi	Medium	4
+Adventure|Animation|Comedy|Family|Sport	Medium	2
+Action|Crime|Thriller	High	5
+Action|Adventure|Horror|Sci-Fi|Thriller	Medium	1
+Action|Adventure|Fantasy|Sci-Fi|Thriller	High	2
+Adventure|Fantasy	Medium	2
+Action|Adventure|Fantasy|Romance	Medium	1
+Adventure|Animation|Comedy|Family|Fantasy	Medium	15
+Action|Adventure|Sci-Fi|Thriller	High	6
+Adventure|Animation|Family|Sci-Fi	High	2
+Action|Comedy|Crime|Thriller	Medium	17
+Animation|Drama|Family|Fantasy	Medium	1
+Action|Adventure|Drama|Romance	Medium	2
+Action|Crime|Drama|Thriller	High	7
+Adventure|Animation|Comedy|Family	High	4
+Action|Adventure|Animation|Comedy|Family|Sci-Fi	Medium	3
+Adventure|Drama|Family|Mystery	High	1
+Action|Comedy|Sci-Fi|Western	Low	1
+Action|Adventure|Fantasy|Horror|Thriller	Medium	1
+Action|Adventure|Comedy|Sci-Fi	Medium	3
+Comedy|Family|Fantasy	Medium	13
+Adventure|Animation|Comedy|Drama|Family|Fantasy	High	1
+Adventure|Drama|Family|Fantasy	High	3
+Action|Adventure|Drama|Fantasy	Medium	3
+Action|Adventure|Family|Fantasy|Romance	Medium	1
+Action|Adventure|Drama|Sci-Fi	High	1
+Action|Adventure|Romance|Sci-Fi	Low	1
+Action|Adventure|Family|Mystery|Sci-Fi	Medium	1
+Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi	High	2
+Adventure|Animation|Comedy|Family|Sci-Fi	High	1
+Adventure|Animation|Family|Fantasy	Medium	6
+Adventure|Animation|Family|Fantasy	High	5
+Action|Sci-Fi	Medium	7
+Adventure|Drama|Sci-Fi	High	3
+Action|Adventure|Drama|Horror|Sci-Fi	High	1
+Action|Crime|Thriller	Medium	45
+Drama|Fantasy|Romance	High	4
+Adventure|Sci-Fi	Medium	1
+Action|Adventure|Drama|Thriller	Medium	11
+Action|Drama|History|Romance|War	Medium	1
+Action|Adventure|Biography|Drama|History|Romance|War	Medium	1
+Action|Drama	Medium	4
+Drama|Horror|Sci-Fi	High	1
+Adventure|Comedy|Family|Fantasy	Medium	10
+Animation|Comedy|Family|Fantasy	High	3
+Action|Adventure	High	4
+Action|Adventure|Animation|Comedy|Family	Medium	2
+Adventure|Animation|Comedy|Family|Fantasy|Musical	High	1
+Action|Sci-Fi	High	5
+Mystery|Thriller	Medium	10
+Adventure|Animation|Comedy|Drama|Family	Medium	2
+Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi	Medium	2
+Comedy|Fantasy|Horror	Medium	6
+Drama|Fantasy|Horror|Thriller	Medium	3
+Adventure|Animation|Comedy|Family	Medium	18
+Action|Adventure|Animation|Comedy|Family	High	3
+Action|Adventure|Family|Fantasy	Low	2
+Action|Drama|Thriller	Medium	13
+Adventure|Animation|Comedy|Family|Sci-Fi	Medium	5
+Adventure	High	1
+Action|Comedy|Fantasy|Sci-Fi	Medium	2
+Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi	Medium	1
+Action|Adventure|Animation|Fantasy	Medium	1
+Comedy|Crime	Medium	27
+Action|Drama|History|War	High	6
+Action|Adventure|Drama	Medium	2
+Action|Adventure|Animation|Comedy|Family|Fantasy	High	2
+Action|Drama|Mystery|Sci-Fi	High	1
+Action|Adventure|Comedy|Thriller	Medium	4
+Action|Adventure|Animation|Fantasy|Romance|Sci-Fi	Medium	1
+Action|Adventure|Drama|History|War	High	3
+Adventure|Drama|Fantasy|Romance	Medium	1
+Animation|Comedy|Family|Musical	Medium	1
+Adventure|Drama|Thriller|Western	High	1
+Adventure|Animation|Comedy|Family|Western	High	1
+Action|Mystery|Thriller	High	3
+Action|Adventure|Comedy|Sci-Fi	High	1
+Adventure|Sci-Fi|Thriller	High	3
+Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi	Medium	2
+Adventure|Sci-Fi|Thriller	Medium	4
+Action|Adventure|Animation|Comedy|Family|Fantasy	Medium	2
+Action|Crime|Mystery|Thriller	Medium	5
+Action|Adventure|Family|Mystery	High	1
+Adventure|Drama|Romance|War	Medium	3
+Action|Adventure|Sci-Fi	Low	4
+Adventure|Animation|Family|Thriller	Medium	1
+Action|Fantasy	High	1
+Action|Animation|Comedy|Family|Sci-Fi	High	1
+Adventure|Family|Fantasy	High	2
+Action|Comedy|Fantasy	Medium	3
+Fantasy	Medium	2
+Adventure|Animation|Comedy|Family|Musical	Medium	2
+Action|Adventure|Crime|Mystery|Thriller	High	2
+Action|Adventure|History	Medium	2
+Action	Low	1
+Adventure|Drama|Fantasy	High	2
+Action|Fantasy|Thriller	Medium	3
+Action|Adventure|Comedy|Crime	Low	2
+Adventure|Mystery|Sci-Fi	Medium	3
+Action|Drama|Sci-Fi|Thriller	Medium	5
+Action|Crime|Sci-Fi|Thriller	Medium	7
+Action|Family|Sport	Medium	1
+Comedy|Drama|Romance	Medium	76
+Action|Comedy|Romance	Medium	5
+Action|Adventure|Mystery|Sci-Fi	Medium	2
+Action|Drama|War	Medium	5
+Adventure|Drama|Sci-Fi|Thriller	High	3
+Action|Adventure|Comedy|Family|Fantasy	Medium	1
+Crime|Thriller	Medium	10
+Action|Comedy|Crime|Romance|Thriller	Medium	2
+Biography|Drama	High	17
+Adventure|Comedy|Family|Fantasy	Low	2
+Action|Comedy|Crime|Sci-Fi|Thriller	Medium	1
+Action|Drama|Fantasy|War	Medium	1
+Animation|Comedy|Family|Music|Western	Medium	1
+Action|Adventure|Mystery|Sci-Fi|Thriller	Medium	3
+Action|Drama|Sci-Fi|Sport	High	1
+Action|Crime|Romance|Thriller	Low	1
+Action|Adventure|Drama|Fantasy	High	3
+Action|Adventure|Comedy	Medium	9
+Biography|Drama|Sport	Medium	4
+Action|Mystery|Sci-Fi|Thriller	High	2
+Animation|Family|Fantasy|Musical|Romance	High	1
+Action|Adventure|Romance|Sci-Fi|Thriller	Medium	3
+Comedy|Romance	Low	10
+Action|Drama|Romance	High	2
+Biography|Crime|Drama|History|Romance	Medium	1
+Biography|Crime|Drama	High	8
+Action|Comedy|Thriller	High	1
+Comedy|Romance	Medium	96
+Action|Comedy|Crime	Medium	17
+Action|Drama|Mystery|Thriller	Medium	1
+Drama|Western	High	2
+Animation|Drama|Family|Musical|Romance	Medium	1
+Action|Adventure|Comedy|Family|Mystery	Medium	1
+Adventure|Drama|Family|Fantasy	Medium	1
+Action|Romance|Thriller	Medium	1
+Action|Fantasy|Horror|Mystery	Medium	1
+Adventure|Drama|Thriller	High	3
+Biography|Comedy|Crime|Drama	High	2
+Action|Sci-Fi|War	High	1
+Drama|Sci-Fi	High	5
+Action|Adventure|Animation|Family|Fantasy	Medium	1
+Action|Crime|Fantasy|Romance|Thriller	Low	1
+Adventure|Comedy|Sci-Fi	Medium	3
+Action|Crime|Sport|Thriller	Medium	1
+Comedy|Family|Fantasy	Low	5
+Action|Adventure|Biography|Drama|History|Thriller	Medium	1
+Action|Comedy|Sci-Fi	Low	2
+Action|Drama|Thriller|War	Medium	4
+Drama|Mystery|Thriller	High	9
+Action|Adventure|Fantasy|Thriller	Medium	4
+Crime|Drama	High	17
+Drama|History|Romance|War	High	1
+Animation|Comedy|Family|Sport	Medium	1
+Comedy|Sci-Fi|Thriller	Medium	1
+Drama|History|War	High	9
+Comedy	Medium	82
+Comedy|Drama|Romance	Low	5
+Adventure|Animation|Comedy|Family|Romance	Medium	3
+Drama|Family|Fantasy|Romance	Medium	2
+Drama|Fantasy|Thriller	Medium	2
+Drama|Mystery|Romance|Sci-Fi|Thriller	Medium	1
+Action|Drama|Sci-Fi|Thriller	High	2
+Action|Thriller	Medium	14
+Drama|History|War|Western	Medium	1
+Action|Adventure|Animation|Family	High	1
+Adventure|Comedy|Family|Mystery|Sci-Fi	High	1
+Drama|Fantasy|Horror|Mystery|Thriller	Medium	1
+Animation|Comedy|Family|Sci-Fi	Medium	1
+Adventure|Comedy|Drama|Fantasy|Romance	High	1
+Action|Adventure|Comedy|Crime|Thriller	Medium	1
+Crime|Drama|Thriller	High	27
+Adventure|Animation|Family|Fantasy|Musical|War	High	1
+Action|Comedy	Medium	8
+Crime|Drama|Mystery|Thriller	High	13
+Adventure|Drama|History	Medium	1
+Action|Adventure|Animation|Family|Fantasy|Sci-Fi	Medium	1
+Adventure|Animation|Comedy|Family|Fantasy|Music	Medium	1
+Drama|History|Thriller|War	High	2
+Action|Animation|Comedy|Sci-Fi	Medium	1
+Comedy|Family|Fantasy|Horror|Mystery	Low	1
+Drama|Mystery|Sci-Fi|Thriller	High	5
+Action|Horror|Sci-Fi|Thriller	Medium	11
+Crime|Mystery|Thriller	Medium	7
+Action|Adventure|Comedy|Crime|Mystery|Thriller	Medium	1
+Comedy|Drama|Sci-Fi	Medium	1
+Action|Crime|Drama|Thriller	Medium	39
+Drama|History|Thriller|War	Medium	1
+Biography|Drama|Sport	High	16
+Action|Family|Fantasy|Musical	Low	1
+Drama|History|Sport	High	2
+Adventure|Drama|Romance	High	2
+Animation|Comedy|Family|Music|Romance	Medium	1
+Crime|Thriller	High	5
+Animation|Comedy|Family|Fantasy|Musical|Romance	High	1
+Adventure|Comedy|Family	Low	2
+Action|Crime|Drama|Mystery|Thriller	High	4
+Action|Adventure|Comedy|Fantasy	Medium	1
+Comedy|Drama|Music|Musical	High	1
+Adventure|Comedy|Drama|Family|Fantasy	Medium	2
+Action|Comedy|Fantasy|Romance	High	1
+Comedy|Romance|Sci-Fi	Low	1
+Adventure|Comedy|Mystery	Low	1
+Comedy|Drama|Fantasy|Romance	Medium	7
+Action|Comedy|Family|Fantasy	Low	1
+Action|Adventure|Fantasy|Horror|Sci-Fi	Medium	1
+Crime|Drama|History|Mystery|Thriller	High	1
+Action|Mystery|Sci-Fi|Thriller	Medium	4
+Comedy|Drama	Medium	44
+Action	Medium	6
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi	High	1
+Action|Drama|Romance|Sci-Fi|Thriller	Medium	1
+Comedy|Crime|Sport	Medium	1
+Adventure|Animation|Comedy|Family|Fantasy|Music	Low	1
+Mystery|Thriller	High	5
+Action|Crime|Sci-Fi|Thriller	High	1
+Comedy|Family|Fantasy|Romance	Medium	4
+Action|Mystery|Thriller	Medium	5
+Adventure|Drama|History|Romance|War	High	1
+Comedy|Family|Sci-Fi	Medium	2
+Fantasy|Horror|Mystery|Thriller	Low	1
+Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport	Medium	1
+Adventure|Comedy|Crime|Family|Mystery	Medium	1
+Drama|Sci-Fi|Thriller	Medium	4
+Action|Crime|Mystery|Romance|Thriller	Medium	2
+Action|Drama|War	High	4
+Action|Adventure|Comedy|Romance	Medium	1
+Adventure|Animation|Comedy|Family	Low	2
+Adventure|Animation|Family|Western	Medium	1
+Comedy|Family|Romance	Medium	8
+Action|Adventure|Family|Sci-Fi|Thriller	Medium	1
+Drama|Mystery|Sci-Fi|Thriller	Medium	7
+Drama|Romance	Medium	37
+Animation|Comedy|Family|Fantasy	Medium	3
+Animation|Family|Fantasy|Music	High	1
+Action|Adventure|Family|Fantasy|Thriller	Medium	1
+Drama|Fantasy|Romance	Medium	7
+Comedy|Fantasy	Medium	7
+Action|Adventure|Comedy|Fantasy|Thriller	Medium	1
+Action|Comedy|Sci-Fi	Medium	5
+Drama|Horror|Mystery|Sci-Fi	Medium	1
+Action|Sci-Fi|Thriller	Medium	12
+Drama|History|Thriller	High	6
+Adventure|Animation|Family	Medium	3
+Drama|Musical|Romance	Medium	4
+Action|Adventure|Drama|Sci-Fi	Medium	2
+Documentary|Drama	High	1
+Action|Adventure|Horror|Sci-Fi|Thriller	Low	2
+Action|Adventure|Drama|History|Romance	Medium	3
+Animation|Family	Low	1
+Adventure|Animation|Drama|Family|Musical	High	1
+Animation|Comedy|Family|Fantasy|Sci-Fi	Medium	1
+Comedy	Low	21
+Adventure|Animation|Drama|Family|Fantasy	High	1
+Sci-Fi|Thriller	Medium	3
+Adventure|Animation|Comedy|Family|Fantasy	Low	3
+Animation|Comedy|Family	Medium	2
+Animation|Comedy|Family|Sci-Fi	High	1
+Drama|Sci-Fi|Thriller	High	3
+Action|Crime|Fantasy|Thriller	Medium	1
+Comedy|Drama|Family|Music|Musical|Romance	Medium	1
+Horror|Mystery|Thriller	Medium	16
+Action|Adventure|Comedy|Family|Sci-Fi	Low	4
+Crime|Mystery|Thriller	High	2
+Comedy|Drama	High	18
+Comedy|Family	Medium	14
+Biography|Comedy|Drama|History	High	2
+Drama|Music|Musical	Medium	1
+Comedy|Crime|Music	Medium	2
+Action|Comedy|Romance|Thriller	Medium	1
+Action|Adventure|Comedy	High	1
+Animation|Comedy|Family|Fantasy|Mystery	Medium	1
+Comedy|Crime|Drama|Romance	Medium	2
+Action|Adventure|Romance|Thriller	Medium	1
+Drama|History|Romance	Medium	1
+Action|Drama|Fantasy|Romance	Medium	1
+Action|Crime|Drama|Mystery|Thriller	Medium	15
+Action|Adventure|Animation|Family|Sci-Fi	Medium	1
+Action|Drama|Sci-Fi	Medium	1
+Drama|Horror|Sci-Fi|Thriller	Medium	6
+Animation|Comedy|Fantasy	Low	1
+Action|Animation|Comedy|Family|Sci-Fi	Medium	2
+Action|Fantasy	Medium	1
+Action|Animation|Comedy|Family	Medium	1
+Action|Adventure|Comedy|Romance|Thriller	Medium	1
+Action|Drama|Thriller	High	3
+Action|Comedy|Sport	Medium	2
+Biography|Drama|History|War	High	4
+Adventure|Animation|Comedy	High	1
+Action|Drama|Sport	Low	1
+Adventure|Drama|Family	High	3
+Drama|Mystery|Romance|Thriller	Medium	6
+Adventure|Animation|Comedy|Family|Fantasy|Romance	High	2
+Adventure|Animation|Comedy|Family|Sport	High	1
+Adventure|Drama|War	High	1
+Action|Adventure|Crime|Thriller	Medium	5
+Fantasy|Mystery|Romance|Sci-Fi|Thriller	Medium	1
+Drama|Fantasy|Mystery|Thriller	Medium	2
+Animation|Comedy|Family|Fantasy|Music	Low	1
+Drama|Horror|Romance|Thriller	Medium	2
+Drama|War	High	10
+Drama|War	Medium	5
+Drama	Medium	30
+Action|Drama|Fantasy|Horror|War	Medium	1
+Adventure|Family|Fantasy|Romance	High	2
+Adventure|Biography|Drama|History|War	Medium	2
+Action|Adventure|Horror|Sci-Fi	Medium	4
+Action|Fantasy|Horror	Medium	4
+Comedy|Drama|Musical|Romance	Medium	2
+Action|Sci-Fi|Sport	Low	1
+Action|Crime|Sci-Fi|Thriller	Low	2
+Action|Adventure|Animation|Comedy|Crime|Family|Fantasy	Medium	1
+Adventure|Animation|Family|Fantasy|Musical	Medium	1
+Crime|Mystery|Thriller	Low	1
+Action|Crime|Mystery|Sci-Fi|Thriller	Medium	1
+Action|Adventure|Fantasy	Low	3
+Adventure|Drama|Fantasy|Romance	Low	2
+Crime|Drama|Thriller	Medium	37
+Animation|Comedy|Family	High	1
+Action|Comedy|Crime|Drama|Thriller	Medium	6
+Adventure|Drama|History|Romance	High	1
+Biography|Drama|Thriller	High	3
+Action|Drama|History|Thriller	Medium	1
+Action|Crime|Romance|Thriller	Medium	2
+Action|Adventure|Fantasy|War	Medium	1
+Comedy|Fantasy|Romance	Medium	9
+Adventure|Drama|History	High	4
+Drama|Musical|Romance	High	2
+Action|Adventure|Comedy|Romance|Thriller|Western	Medium	1
+Biography|Drama|Sport|War	High	1
+Drama|History|Thriller	Medium	2
+Comedy|Drama|Family|Musical	Medium	1
+Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller	Medium	1
+Drama	High	44
+Drama|Sport	High	7
+Action|Fantasy|Sci-Fi|Thriller	Medium	1
+Crime|Drama	Medium	4
+Action|Crime|Fantasy|Thriller	Low	2
+Drama|Mystery|Romance	Medium	3
+Adventure|Biography|Drama|History|Sport|Thriller	High	1
+Crime|Drama|Fantasy	High	1
+Adventure|Biography|Crime|Drama|Western	Medium	1
+Comedy|Crime	Low	5
+Action|War	Medium	1
+Comedy|Romance|Sport	Low	1
+Crime|Drama|Mystery|Thriller|Western	High	1
+Comedy|Sport	Medium	11
+Action|Drama|Fantasy|War	High	1
+Comedy|Drama|Family	High	3
+Crime|Drama|Fantasy|Mystery	High	1
+Drama|Mystery|Thriller	Medium	12
+Comedy|Drama|Sci-Fi	High	1
+Adventure|Animation|Biography|Drama|Family|Fantasy|Musical	Medium	1
+Action|Comedy|Family|Fantasy	Medium	1
+Action|Drama|Sport	Medium	2
+Adventure|Comedy|Family	Medium	4
+Action|Comedy|Crime|Thriller	High	2
+Drama|Sport	Medium	9
+Drama|Romance|Western	Medium	3
+Documentary|Music	High	2
+Drama|Thriller	Medium	26
+Animation|Family|Fantasy	High	1
+Action|Fantasy|Horror|Sci-Fi	Medium	1
+Biography|Comedy|Drama	Medium	2
+Action|Horror|Sci-Fi	Medium	5
+Adventure|Comedy	Low	2
+Biography|Drama|History|Sport	High	2
+Comedy|Crime|Romance|Thriller	Medium	2
+Comedy|Family|Sci-Fi	Low	2
+Comedy|Crime|Romance	Medium	5
+Crime|Drama|Mystery|Thriller	Medium	29
+Horror|Mystery|Sci-Fi|Thriller	Medium	2
+Biography|Drama|Music	Medium	6
+Drama|Fantasy|Sport	Medium	1
+Adventure|Comedy|Drama|Music	High	1
+Action|Adventure|Crime|Thriller	Low	1
+Action|Fantasy|Horror|Sci-Fi|Thriller	Medium	1
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance	Medium	1
+Horror|Sci-Fi|Thriller	Medium	5
+Drama|Fantasy|Mystery|Romance|Thriller	Medium	1
+Action|Adventure|Drama|History|Romance|War	Medium	1
+Horror|Sci-Fi|Thriller	Low	3
+Drama|Fantasy|Mystery|Romance	Medium	1
+Fantasy|Horror|Mystery|Romance	Medium	1
+Adventure|Comedy|Family|Romance|Sci-Fi	Low	1
+Drama|Horror|Thriller	Medium	3
+Action|Comedy|Mystery|Romance	Medium	1
+Action|Adventure|Fantasy|Thriller	Low	1
+Action|Adventure|Comedy|Romance|Sci-Fi	High	1
+Comedy|Drama	Low	6
+Action|Biography|Drama|History|Thriller|War	High	1
+Adventure|Comedy|Family|Fantasy|Horror	Medium	1
+Comedy|Family|Romance|Sci-Fi	Low	1
+Action|Adventure|Thriller|War	Medium	2
+Comedy|Drama|Romance|Sport	Medium	6
+Comedy|Western	Low	1
+Action|Adventure|Drama|History|War	Medium	3
+Action|Comedy|Crime|Drama	Medium	1
+Action|Fantasy|Thriller	Low	1
+Drama|Music|Romance|War	Medium	1
+Action|Comedy|Drama|Family|Thriller	Medium	1
+Action|Crime	Medium	2
+Animation|Comedy|Family|Fantasy|Music	Medium	1
+Adventure|Animation|Drama|Family|History|Musical|Romance	Medium	1
+Action|Adventure|Drama|Romance|Sci-Fi	High	1
+Comedy|Romance|Sci-Fi	Medium	4
+Action|Adventure|Comedy|Family|Romance	Medium	1
+Action|Drama|Thriller|War	High	2
+Action	High	1
+Action|Adventure|Comedy|Western	Medium	1
+Biography|Drama|History|Musical	Medium	1
+Action|Adventure|Crime|Thriller	High	2
+Adventure|Drama|Horror|Thriller	Medium	1
+Action|Drama|Sport|Thriller	Medium	1
+Drama|Musical|Romance|Thriller	High	1
+Biography|Drama|History|War	Medium	2
+Drama|History|War	Medium	4
+Action|Thriller	Low	5
+Comedy|Drama|Family|Fantasy	Medium	3
+Adventure|Comedy|Crime|Family|Musical	Medium	1
+Drama|Music|Musical|Romance	Medium	3
+Drama|Mystery|Romance|War	High	2
+Crime|Drama|Romance	High	1
+Crime|Horror|Mystery|Thriller	Medium	3
+Action|Adventure|Romance|Sci-Fi	Medium	1
+Comedy|Crime|Romance	Low	1
+Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance	High	1
+Biography|Crime|Drama	Medium	3
+Action|Horror|Thriller	High	2
+Drama|History|Horror	Medium	1
+Drama|Romance|Sport	Medium	4
+Comedy|Family|Musical|Romance	Medium	1
+Biography|Comedy|Drama	High	2
+Comedy|Family	Low	5
+Romance|Sci-Fi|Thriller	High	1
+Comedy|Drama|Romance|Sport	High	1
+Comedy|Drama|Romance	High	18
+Biography|Comedy|Drama|Romance	Medium	1
+Mystery|Sci-Fi|Thriller	High	2
+Action|Comedy|Crime	High	4
+Drama|Fantasy|Horror	High	1
+Adventure|Comedy|Drama|Fantasy|Musical	Medium	1
+Horror|Mystery	Medium	13
+Action|Adventure|Family|Fantasy|Sci-Fi|Thriller	Medium	1
+Adventure|Comedy|Family|Fantasy|Romance|Sport	Low	1
+Adventure|Horror|Mystery	Medium	1
+Crime|Drama|Romance|Thriller	Medium	8
+Action|Adventure|Thriller	Low	2
+Adventure|Drama|Thriller	Medium	2
+Comedy|Crime|Drama|Thriller	Low	1
+Drama|Fantasy	Medium	2
+Adventure|Comedy|Drama	High	4
+Action|Biography|Drama|History|War	Medium	1
+Adventure|Comedy|Fantasy	Medium	1
+Adventure|Comedy|Crime|Drama|Family	Medium	1
+Biography|Drama|Thriller	Medium	3
+Action|Biography|Crime|Drama|Thriller	Medium	1
+Comedy|Crime|Drama|Thriller	Medium	4
+Comedy|Sci-Fi	Medium	3
+Action|Crime|Drama|Mystery|Thriller	Low	1
+Action|Adventure|Comedy|Crime|Music|Mystery	Medium	1
+Comedy|Drama|Music	High	2
+Action|Crime|Drama|Sci-Fi|Thriller	Medium	1
+Horror|Thriller	Low	5
+Action|Adventure|Comedy|Drama|War	High	1
+Adventure|Comedy	Medium	9
+Drama|Mystery|Sci-Fi	High	2
+Crime|Drama|Music	Medium	1
+Adventure|Crime|Drama|Western	High	1
+Comedy|Drama|Thriller	Medium	1
+Drama|Romance|War	High	4
+Action|Comedy|Crime|Music|Romance|Thriller	Medium	1
+Crime|Romance|Thriller	Medium	1
+Action|Adventure|Drama	High	1
+Action|Adventure|Drama|Sci-Fi|Thriller	High	1
+Action|Drama|Fantasy|Thriller|Western	Low	1
+Action|Drama|Mystery|Thriller|War	Medium	1
+Biography|Crime|Drama|Thriller	High	1
+Drama|History|War	Low	1
+Action|Comedy|Crime|Romance	Medium	2
+Action|Adventure|Family|Fantasy|Sci-Fi	Medium	1
+Adventure|Comedy|Sci-Fi	High	5
+Adventure|Comedy|Family|Musical	High	1
+Action|Horror	High	1
+Action|Adventure|Horror|Thriller	Low	2
+Comedy|Drama|Music|Romance	Medium	4
+Action|Crime|Drama|Romance|Thriller	Medium	3
+Comedy|Family	High	3
+Comedy|Family|Romance|Sport	Medium	1
+Comedy|Family|Fantasy|Romance	Low	1
+Adventure|Comedy|Drama	Medium	2
+Drama|Family|Fantasy	Medium	2
+Drama|Fantasy|Musical|Romance	High	1
+Adventure|Comedy|Family|Fantasy|Sci-Fi	Medium	1
+Comedy|Musical	Medium	2
+Action|Adventure|Comedy|Fantasy	Low	1
+Biography|Drama|History	High	13
+Action|Crime|Drama|Thriller|War	Medium	1
+Comedy|Crime|Thriller	Medium	8
+Action|Adventure|Comedy|Crime	Medium	3
+Action|Animation|Comedy|Family|Fantasy	Low	1
+Biography|Drama|History|Thriller	High	1
+Action|Adventure|Crime|Drama|Mystery|Thriller	High	1
+Animation|Family|Fantasy|Musical	High	1
+Adventure|Drama|Western	Medium	1
+Biography|Drama|History|Romance	Medium	6
+Drama|Horror|Mystery|Thriller	Medium	6
+Fantasy|Horror|Mystery|Thriller	Medium	2
+Adventure|Comedy|Family|Fantasy|Sci-Fi	Low	1
+Action|Adventure|History	High	1
+Action|Fantasy|Western	Medium	1
+Drama|Music	Medium	8
+Action|Drama|Family|Sport	High	1
+Drama|Romance	Low	1
+Action|Biography|Drama|Thriller|War	High	1
+Comedy|Drama|Sport	High	1
+Horror|Mystery|Thriller	High	3
+Adventure|Comedy|Sci-Fi|Western	High	1
+Fantasy|Horror|Romance	High	1
+Biography|Drama|Romance	Medium	7
+Action|Adventure|Drama|Romance|War	High	1
+Biography|Drama|Music	High	2
+Comedy|Romance	High	6
+Adventure|Comedy|Crime|Romance	Medium	1
+Comedy|Drama|Family|Fantasy|Romance	Medium	1
+Horror	Medium	16
+Comedy|Music	Medium	9
+Action|Adventure|Comedy|Family|Sci-Fi	Medium	4
+Action|Horror	Medium	2
+Action|Adventure|Drama|Romance|Thriller	High	1
+Action|Adventure|Drama|Thriller	High	1
+Biography|Drama|Music|Musical	Medium	3
+Drama|History	High	1
+Adventure|Drama|Romance	Medium	3
+Action|Horror|Sci-Fi|Thriller	Low	3
+Comedy|Music|Romance	Medium	3
+Biography|Drama|Music|Musical	High	2
+Comedy|Western	Medium	1
+Action|Adventure|Crime|Fantasy|Mystery|Thriller	Medium	1
+Adventure|Drama|Mystery	Medium	1
+Biography|Crime|Drama|Music	Medium	1
+Crime|Drama|Horror|Thriller	Medium	2
+Action|Adventure|Romance	Low	1
+Horror|Thriller	Medium	11
+Crime|Drama|Romance|Thriller	High	5
+Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical	Medium	1
+Action|Comedy|Crime	Low	5
+Drama	Low	3
+Drama|Thriller	High	5
+Action|Adventure|Comedy|Music|Thriller	Low	1
+Adventure|Animation|Comedy|Crime|Family	High	1
+Comedy|Romance|Sci-Fi|Thriller	Medium	1
+Comedy|Crime|Family|Romance	Low	1
+Crime|Horror|Thriller	Low	1
+Comedy|Drama|Music	Medium	5
+Action|Adventure|Drama|Thriller	Low	1
+Action|Sci-Fi	Low	2
+Action|Horror|Mystery|Sci-Fi|Thriller	Medium	1
+Comedy|Fantasy|Sci-Fi	Medium	1
+Adventure|Animation|Comedy|Fantasy|Romance	Low	1
+Action|Adventure|Family|Thriller	Medium	1
+Adventure|Comedy|Drama|Romance|Thriller|War	Medium	1
+Comedy|Fantasy	High	2
+Action|Drama|History|Romance|War	High	1
+Adventure|Animation|Comedy|Fantasy|Music|Romance	Medium	1
+Action|Drama|Fantasy	High	1
+Action|Adventure|Drama|Fantasy|War	High	1
+Drama|Fantasy|Romance|Sci-Fi	High	2
+Animation|Comedy|Family|Horror|Sci-Fi	Medium	1
+Biography|Drama|Romance|Sport	Medium	2
+Action|Biography|Drama	Medium	1
+Adventure|Drama	Medium	5
+Horror|Mystery|Sci-Fi	High	1
+Action|Adventure|Drama|Thriller|Western	Medium	1
+Adventure|Family|Fantasy|Sci-Fi	Medium	1
+Adventure|Comedy|History|Romance	Low	1
+Action|Biography|Drama|Sport	High	2
+Drama|Family	Medium	3
+Action|Adventure|Crime|Drama|Family|Fantasy|Romance|Thriller	Medium	1
+Drama|History	Medium	3
+Biography|Comedy|Romance	Medium	1
+Adventure|Animation|Comedy|Family|Sci-Fi	Low	1
+Comedy	High	10
+Action|Biography|Drama|History	High	1
+Biography|Drama|War	Medium	1
+Adventure|Drama|Western	High	2
+Adventure|Comedy|Family|Sci-Fi	Medium	1
+Horror	High	4
+Biography|Drama|Family|History|Sport	High	1
+Biography|Comedy|Drama|History|Music	High	1
+Biography|Drama|History|Romance	High	4
+Comedy|Romance|Sport	Medium	5
+Fantasy|Horror	High	1
+Adventure|Comedy|Fantasy	Low	1
+Comedy|Drama|Family|Sport	High	1
+Action|Adventure|Comedy|Thriller	Low	1
+Biography|Drama|War	High	3
+Drama|Fantasy|Horror	Medium	2
+Comedy|Drama|Romance|Sci-Fi	Medium	1
+Adventure|Animation|Comedy|Family|War	Medium	1
+Action|Comedy|Sci-Fi|Thriller	Low	1
+Comedy|Horror	Medium	3
+Drama|Thriller|War	Medium	1
+Action|Western	Medium	1
+Action|Comedy|Thriller	Low	1
+Action|Adventure|Family|Sci-Fi	Low	2
+Adventure|Biography|Drama|Thriller	High	3
+Adventure|Drama|Romance|War	High	1
+Drama|Romance|War|Western	Medium	1
+Action|Comedy|Crime|Western	Medium	1
+Action|Adventure|Comedy|Drama|Thriller	Medium	1
+Drama|Music|Romance	Medium	8
+Action|Adventure|Crime|Drama|Thriller	Medium	1
+Drama|Fantasy|Romance|Sci-Fi	Medium	1
+Adventure|Comedy|Family|Sport	Medium	2
+Comedy|Drama|Fantasy	Medium	1
+Comedy|Family|Sport	Medium	2
+Action|Adventure|Drama|Family	High	1
+Action|Comedy|War	Medium	2
+Drama|Family|Sport	Medium	3
+Action|Thriller|Western	Medium	1
+Action|Drama|Fantasy|Horror|Thriller	Low	1
+Animation|Comedy|Family|Fantasy|Musical	Medium	2
+Action|Adventure|Comedy|Fantasy|Romance	Medium	1
+Drama|Music	High	3
+Action|Crime|Drama|Mystery|Sci-Fi|Thriller	Medium	1
+Biography|Drama|Romance	High	6
+Adventure|Comedy|Crime|Drama	High	1
+Drama|Mystery	Medium	1
+Comedy|Fantasy|Horror|Thriller	Medium	2
+Crime|Drama|Mystery|Sci-Fi|Thriller	High	1
+Comedy|Crime|Musical	High	1
+Action|Sci-Fi|Thriller	High	1
+Comedy|Drama|Family|Music|Romance	Low	1
+Drama|Romance|War|Western	High	1
+Comedy|Horror|Romance	Medium	2
+Action|Crime|Drama|Sci-Fi|Thriller	High	1
+Comedy|Drama|Family	Medium	6
+Adventure|Comedy|Mystery	Medium	1
+Comedy|Fantasy|Romance	High	2
+Comedy|Family|Fantasy|Sport	Medium	1
+Animation|Comedy|Family|Mystery|Sci-Fi	High	1
+Adventure|Comedy|Drama|Family|Sport	Medium	1
+Animation|Drama|Family|Fantasy|Musical|Romance	High	1
+Comedy|Drama|Fantasy|Romance	High	1
+Comedy|Horror|Musical|Sci-Fi	Medium	1
+Action|Adventure|Fantasy|Sci-Fi|Thriller	Low	3
+Crime|Drama|Sport	Medium	1
+Action|Adventure|Animation|Drama|Mystery|Sci-Fi|Thriller	High	1
+Adventure|Animation|Comedy|Family|Musical	High	1
+Action|Adventure|Crime|Drama|Romance	Medium	1
+Action|Comedy|Horror	Medium	2
+Drama|Horror|Sci-Fi	Medium	2
+Action|Adventure|Comedy|Romance|Sci-Fi	Low	1
+Adventure|Horror|Thriller	Medium	3
+Drama|Horror|Sci-Fi|Thriller	Low	2
+Animation|Comedy|Family	Low	2
+Adventure|Fantasy|Mystery	Medium	1
+Action|Drama|Romance|Sport	Low	1
+Action|Drama|Fantasy	Medium	1
+Action|Adventure	Low	1
+Biography|Crime|Drama|History|Western	High	1
+Action|Biography|Crime|Drama	Medium	1
+Drama|History|Sport	Low	1
+Adventure|Animation|Fantasy	Low	1
+Adventure|Animation|Comedy|Fantasy	High	1
+Biography|Drama|Music|Romance	High	2
+Biography|Comedy|Crime|Drama|Romance|Thriller	High	1
+Comedy|Fantasy|Horror|Thriller	Low	1
+Biography|Crime|Drama|History|Music	High	1
+Adventure|Animation|Comedy|Drama|Family|Musical	Medium	2
+Biography|Comedy|Drama|Music|Romance	High	1
+Adventure|Animation|Sci-Fi	Medium	1
+Drama|Romance|Thriller	Medium	3
+Action|Comedy	High	2
+Action|Fantasy|Horror|Thriller	Low	1
+Sci-Fi|Thriller	High	3
+Adventure|Biography	Medium	1
+Drama|Horror|Thriller	Low	2
+Documentary	High	1
+Comedy|Drama|Sport	Medium	3
+Action|Comedy|Family	Medium	1
+Action|Horror|Sci-Fi	Low	1
+Action|Horror|Romance	Medium	1
+Adventure|Drama|History|Romance|Thriller|War	Medium	1
+Action|Comedy|Crime|Music	High	1
+Comedy|Drama|Family|Romance	Medium	5
+Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller	High	1
+Adventure|Family|Fantasy|Horror|Mystery	Medium	1
+Action|Crime|Drama|History|Western	Medium	1
+Comedy|Crime|Drama	Medium	7
+Comedy|Family|Fantasy|Music|Romance	Medium	1
+Drama|Romance|Western	High	1
+Adventure|Comedy|Crime|Music	High	1
+Action|Adventure|Comedy|Sci-Fi|Thriller	Medium	1
+Action|Crime|Drama|Western	High	1
+Action|Adventure|Comedy|Family|Romance|Sci-Fi	Low	1
+Action|Fantasy|Romance|Sci-Fi	Low	1
+Fantasy|Horror	Medium	7
+Comedy|Crime|Mystery|Romance	Medium	1
+Adventure|Family	Medium	2
+Drama|Mystery|Romance|Thriller	High	2
+Biography|Drama|History	Medium	10
+Action|Drama|Music|Romance	Medium	1
+Adventure|Comedy|Family|Fantasy|Horror|Mystery	Low	1
+Adventure|Fantasy|Mystery|Thriller	Medium	2
+Action|Horror|Thriller	Medium	3
+Action|Biography|Drama|History|Romance|Western	High	1
+Fantasy|Horror|Mystery	High	1
+Biography|Drama|Family	High	1
+Action|Adventure|Comedy|Crime|Family|Romance|Thriller	Medium	1
+Adventure|Animation|Comedy|Family|Fantasy|Musical	Medium	1
+Drama|Romance|Sci-Fi	Medium	2
+Comedy|Fantasy|Horror|Romance	Medium	1
+Comedy|Family|Music	Low	1
+Action|Comedy|Music	Low	1
+Adventure|Comedy|Crime	Low	1
+Comedy|Drama|Family|Sport	Medium	3
+Biography|Comedy|Drama|Sport	High	1
+Drama|Romance|War	Medium	2
+Fantasy|Horror|Thriller	Medium	4
+Comedy|Drama|Romance|Thriller	High	1
+Action|Crime|Thriller	Low	2
+Adventure|Comedy|Family|Romance	Medium	2
+Adventure|Family|Fantasy|Musical	Medium	2
+Horror|Mystery|Thriller	Low	4
+Biography|Crime|Drama|History|Thriller	Medium	1
+Crime|Drama|History	Medium	1
+Action|Adventure|Comedy|Fantasy	High	1
+Biography|Drama|Thriller|War	High	2
+Drama|Music|Mystery|Romance|Thriller	Low	1
+Adventure|Drama	High	2
+Adventure|Fantasy	Low	1
+Action|Comedy|Crime|Drama|Thriller	Low	1
+Action|Adventure|Fantasy|Horror	Low	1
+Crime|Drama|Mystery|Romance	High	1
+Adventure|Animation|Comedy	Low	1
+Action|Adventure|History|Romance	Medium	1
+Action|Drama|Western	Medium	1
+Comedy|Drama|Fantasy	High	2
+Horror|Mystery	Low	3
+Comedy|War	Medium	2
+Adventure|Comedy|Family|Fantasy|Music|Sci-Fi	Medium	1
+Adventure|Family|Fantasy|Music|Musical	Medium	1
+Action|Adventure|Animation|Comedy|Fantasy	High	1
+Adventure|Comedy|Horror|Sci-Fi	High	1
+Horror|Sci-Fi	High	1
+Drama|Romance|Sci-Fi	High	3
+Adventure|Horror|Thriller	Low	1
+Biography|Comedy|Drama|Family|Sport	Medium	1
+Action|Crime|Drama|Thriller|Western	Medium	2
+Biography|Drama	Medium	5
+Drama|Western	Medium	2
+Action|Drama|History	Medium	1
+Drama|Fantasy|Romance|Thriller	Medium	1
+Comedy|Sci-Fi	Low	2
+Thriller	Medium	2
+Comedy|Mystery	Medium	2
+Comedy|Drama|Musical|Romance|War	Medium	1
+Comedy|Family|Romance	Low	1
+Drama|Thriller|War	High	1
+Drama|History|Music|Romance|War	High	1
+Comedy|History	High	1
+Adventure|Animation|Family|Sport	Medium	1
+Animation|Comedy|Fantasy|Musical	High	1
+Action|Adventure|Comedy|Family|Fantasy|Sci-Fi	Low	1
+Crime|Drama|Horror|Thriller	High	1
+Action|Comedy|Documentary	High	2
+Adventure|Comedy|Drama|Family|Romance	Low	1
+Adventure|Comedy|Family|Romance	Low	1
+Comedy|Music	High	1
+Adventure|Comedy|Drama|Family|Mystery	High	1
+Drama|Family|Music|Romance	Medium	1
+Fantasy|Romance	High	2
+Comedy|Crime|Drama	Low	2
+Adventure|Animation|Family|Musical	Medium	1
+Drama|Horror|Mystery|Thriller	Low	2
+Animation|Comedy|Drama|Family|Musical	Medium	1
+Biography|Crime|Drama|History	High	1
+Adventure|Comedy|Fantasy|Music|Sci-Fi	Medium	1
+Comedy|Drama|Romance|Thriller	Medium	1
+Drama|Mystery	High	3
+Comedy|Drama|Musical|Romance|Western	Medium	1
+Action|Adventure|Drama|Mystery	Medium	1
+Comedy|Drama|Music|Romance	High	1
+Comedy|Crime|Family|Mystery|Romance|Thriller	Medium	1
+Action|Adventure|Drama|Romance|Western	Medium	1
+Action|Fantasy|Horror|Thriller	Medium	2
+Adventure|Crime|Mystery|Sci-Fi|Thriller	High	1
+Crime|Drama|Western	Medium	1
+Adventure|Comedy|Drama|Fantasy	Medium	1
+Adventure|Biography|Drama	High	2
+Adventure|Drama|Horror|Mystery|Thriller	Medium	1
+Crime|Fantasy|Horror	High	1
+Animation|Family|Fantasy|Mystery	Medium	1
+Action|Comedy|Crime|Fantasy	High	1
+Comedy|Family|Music|Musical	Low	1
+Crime|Documentary|News	High	1
+Comedy|Crime	High	5
+Drama|Mystery|Romance|Thriller|War	High	1
+Action|Crime|Drama|Sport	Medium	1
+Drama|Fantasy|Horror|Mystery	High	1
+Action|Comedy|Family	Low	1
+Comedy|Drama|Music|War	High	1
+Comedy|Musical|Romance	Medium	2
+Comedy|Drama|Music|Musical|Romance	Medium	1
+Comedy|Crime|Drama|Mystery|Romance	Medium	1
+Comedy|Fantasy	Low	1
+Biography|Comedy|Drama|History|Music|Musical	High	1
+Animation|Drama|Mystery|Sci-Fi|Thriller	High	1
+Horror|Sci-Fi	Low	1
+Comedy|Drama|Family|Music|Romance	Medium	1
+Drama|History|Romance|War	Medium	2
+Adventure|Comedy|Drama|Romance	Medium	1
+Adventure|Animation|Fantasy	High	1
+Comedy|Drama|Mystery|Romance|Thriller|War	Medium	1
+Biography|Comedy|Musical	Low	1
+Crime|Drama|Western	High	1
+Comedy|Music	Low	1
+Action|Adventure|Animation|Family|Sci-Fi|Thriller	Medium	1
+Drama|History|Sport	Medium	1
+Crime|Drama|Mystery|Romance|Thriller	Medium	1
+Comedy|Family|Fantasy|Sci-Fi	Medium	1
+Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller	Medium	1
+Crime|Drama|Mystery	Medium	1
+Romance|Short	Medium	1
+Action|Drama|History|War	Medium	2
+Animation	Low	1
+Action|Biography|Crime|Drama	High	1
+Horror|Mystery	High	1
+Drama|Horror	High	1
+Adventure|Comedy|Drama|Family|Fantasy	Low	1
+Adventure|Comedy|Romance	Medium	1
+Family|Fantasy|Music	Medium	1
+Crime|Drama|Music|Thriller	Medium	1
+Action|Comedy|Crime|Fantasy	Medium	1
+Comedy|Drama|Family|Fantasy|Romance	High	1
+Action|Drama|Fantasy|Mystery|Thriller	Low	1
+Comedy|Crime|Drama	High	2
+Action|Horror|Sci-Fi	High	1
+Biography|Drama|History|Music	High	1
+Biography|Drama|Family|Sport	High	1
+Comedy|Drama|War	High	1
+Adventure|Biography|Drama|History|War	High	2
+Adventure|Drama|Sci-Fi|Thriller	Medium	1
+Biography|Drama|Romance|War	High	1
+Horror	Low	3
+Action|Horror|Romance|Sci-Fi|Thriller	Medium	1
+Music	High	1
+Action|Drama|History|Romance|War|Western	Medium	1
+Action|Animation|Sci-Fi|Thriller	Medium	1
+Action|Animation|Comedy|Crime|Family	Medium	1
+Drama|Family|Music|Musical	Low	1
+Fantasy|Horror|Thriller	High	2
+Drama|Family|Musical|Romance	High	1
+Adventure|Comedy|Drama|Romance	High	2
+Horror|Thriller	High	1
+Comedy|Drama|Family|Fantasy|Sci-Fi	Medium	1
+Comedy|Crime|Drama|Music|Romance	Medium	1
+Comedy|Music|Romance	High	1
+Comedy|Drama|Romance|Sport	Low	2
+Adventure|Comedy|Family|Fantasy|Musical	Medium	1
+Adventure|Crime|Drama|Romance	Low	1
+Biography|Crime|Drama|Thriller	Medium	1
+Comedy|Mystery|Sci-Fi|Thriller	Medium	1
+Sci-Fi	Medium	1
+Drama|Fantasy|Horror|Mystery|Thriller	Low	1
+Drama|Fantasy|War	High	1
+Action|Comedy|Crime|Family	Medium	1
+Action|Comedy|Mystery	High	1
+Action|Adventure|Drama|Romance|War	Medium	1
+Comedy|Crime|Mystery	Medium	1
+Mystery|Sci-Fi|Thriller	Medium	2
+Action|Drama|Sci-Fi|Thriller	Low	1
+Action|Crime|Sci-Fi	Low	1
+Drama|Fantasy	High	1
+Drama|Family	High	1
+Comedy|Horror|Sci-Fi	Medium	1
+Action|Drama|Romance	Medium	1
+Action|Comedy|Drama|Thriller	Medium	1
+Adventure|Comedy	High	1
+Drama|Family|Romance	High	1
+Adventure|Comedy|Family|Music|Romance	Medium	1
+Horror|Mystery|Sci-Fi	Medium	1
+Crime|Horror|Thriller	Medium	1
+Comedy|Horror|Thriller	Low	1
+Comedy|Family|Music|Romance	Low	1
+Drama|Romance|Sport	High	1
+Action|Comedy|Crime|Romance|Thriller	High	1
+Adventure|Fantasy|Horror|Mystery|Thriller	Low	1
+Drama|Romance|Thriller	High	1
+Adventure|Drama|Family	Medium	1
+Action|Drama|Thriller	Low	1
+Drama|Mystery|Thriller	Low	2
+Action|Adventure|Fantasy|Sci-Fi	Low	1
+Crime|Drama|Musical|Romance	Medium	1
+Adventure|Family	Low	1
+Family|Music|Romance	Medium	1
+Biography|Drama|History|Thriller|War	Medium	1
+Adventure|Crime|Drama|Mystery|Western	High	1
+Comedy|Crime|Mystery	High	1
+Drama|Fantasy|Horror|Romance	Medium	1
+Adventure|Drama|Fantasy	Medium	1
+Comedy|Crime|Drama|Thriller|War	Medium	1
+Action|Adventure|Drama|History|Thriller|War	Medium	1
+Fantasy|Horror|Mystery	Medium	1
+Action|Comedy|Drama|War	Low	1
+Comedy|Drama|Fantasy|Music|Romance	Medium	1
+Biography|Drama|Fantasy|History	Medium	1
+Biography	Medium	1
+Drama|Family|Music	Medium	1
+Comedy|Fantasy|Horror|Romance	Low	1
+Adventure|Mystery|Thriller	Medium	1
+Comedy|Drama|War	Medium	2
+Comedy|Mystery|Romance	Medium	1
+Biography|Crime|Drama|War	High	1
+Comedy|Horror	Low	1
+Crime|Drama|Music|Mystery|Thriller	Medium	1
+Biography|Comedy|Drama|War	High	1
+Documentary|Music	Low	2
+Comedy|Crime|Family|Sci-Fi	Low	1
+Adventure|Family|Sci-Fi	Medium	1
+Adventure|Drama|Sci-Fi	Medium	1
+Adventure|Comedy|Romance|Sci-Fi	Medium	1
+Action|Comedy|Sci-Fi|Thriller	Medium	1
+Drama|Romance|War	Low	1
+Action|Adventure|Comedy|Family	Medium	1
+Biography|Comedy|Crime|Drama|Romance	Medium	1
+Action|Crime|Drama|Romance|Thriller	High	1
+Crime|Drama|Mystery	High	1
+Crime|Drama|Musical	High	1
+Biography|Comedy|Crime|Drama	Medium	1
+Adventure|Animation|Family	High	1
+Animation|Comedy|Crime|Drama|Family	High	1
+Action|Adventure|Comedy|Fantasy|Mystery	Medium	1
+Action|Adventure|Drama|Thriller|War	Medium	1
+Crime|Drama|Music|Romance	Medium	1
+Adventure|Animation|Comedy|Crime	Medium	1
+Adventure|Comedy|Fantasy|Sci-Fi	Medium	1
+Comedy|Drama|Family|Fantasy|Musical	High	1
+Documentary|Music	Medium	1
+Horror|Sci-Fi	Medium	3
+Comedy|Crime|Family	Medium	1
+Adventure|Drama|Thriller|War	High	1
+Comedy|Musical|Romance	Low	1
+Comedy|Drama|Horror|Sci-Fi	Medium	1
+Adventure|Crime|Thriller	Medium	1
+Crime|Drama|Romance	Medium	1
+Mystery|Romance|Sci-Fi|Thriller	Medium	1
+Action|Adventure|Animation|Comedy|Family	Low	1
+Fantasy|Mystery|Thriller	Medium	1
+Family|Musical	Low	1
+Comedy|Fantasy|Horror	High	2
+Adventure|Crime|Drama|Mystery|Thriller	High	1
+Comedy|Drama|Family|Music|Musical|Romance	Low	1
+Drama|Fantasy|Music|Romance	Medium	1
+Comedy|Sport	High	1
+Adventure|Drama|History|War	High	1
+Adventure|Mystery|Sci-Fi	High	1
+Family|Sci-Fi	High	1
+Drama|History|Romance|Western	Medium	1
+Adventure|Comedy|Music|Sci-Fi	Medium	1
+Drama|Family|Musical	High	1
+Animation|Comedy|Family|Mystery|Sci-Fi	Medium	1
+Action|Comedy|Drama|Music	Medium	1
+Adventure|Comedy|Drama|Fantasy	High	1
+Fantasy|Horror|Sci-Fi	Medium	1
+Horror|Sci-Fi|Thriller	High	1
+Action|Sci-Fi|Thriller	Low	1
+Comedy|Horror|Sci-Fi	High	1
+Western	High	1
+Comedy|Romance|Thriller	Medium	1
+Biography|Crime|Drama|Romance	Medium	1
+Adventure|Comedy|Drama|Romance|Sci-Fi	Medium	1
+Drama|Music|Mystery|Romance	High	1
